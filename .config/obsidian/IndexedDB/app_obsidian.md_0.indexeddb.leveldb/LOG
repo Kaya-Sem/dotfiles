@@ -1,0 +1,10 @@
+2024/02/02-16:04:40.224 2bc2 Reusing MANIFEST /home/kaya-sem/.config/obsidian/IndexedDB/app_obsidian.md_0.indexeddb.leveldb/MANIFEST-000001
+2024/02/02-16:04:40.224 2bc2 Recovering log #33
+2024/02/02-16:04:40.273 2bc2 Reusing old log /home/kaya-sem/.config/obsidian/IndexedDB/app_obsidian.md_0.indexeddb.leveldb/000033.log 
+2024/02/02-16:04:50.266 2bc0 Level-0 table #38: started
+2024/02/02-16:04:50.354 2bc0 Level-0 table #38: 987546 bytes OK
+2024/02/02-16:04:50.364 2bc0 Delete type=0 #33
+2024/02/02-16:04:50.597 2bc0 Compacting 1@1 + 1@2 files
+2024/02/02-16:04:50.655 2bc0 Generated table #39@1: 6391 keys, 1125326 bytes
+2024/02/02-16:04:50.655 2bc0 Compacted 1@1 + 1@2 files => 1125326 bytes
+2024/02/02-16:04:50.660 2bc0 compacted to: files[ 0 0 1 0 0 0 0 ]

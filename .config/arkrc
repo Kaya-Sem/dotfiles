@@ -1,0 +1,16 @@
+[General]
+LockSidebar=true
+ShowSidebar=true
+
+[MainWindow]
+1536x864 screen: Height=836
+1536x864 screen: Width=738
+1920x1080 screen: Height=1080
+1920x1080 screen: Width=1870
+1920x1080 screen: Window-Maximized=true
+1920x1080 screen: XPosition=0
+1920x1080 screen: YPosition=0
+State=AAAA/wAAAAD9AAAAAQAAAAEAAACYAAAECvwCAAAAAfsAAAAWAGEAcgBrAF8AcwBpAGQAZQBiAGEAcgEAAAAuAAAECgAAAHMBAAACAAADCQAABAoAAAAEAAAABAAAAAgAAAAI/AAAAAEAAAACAAAAAQAAABYAbQBhAGkAbgBUAG8AbwBsAEIAYQByAQAAAAD/////AAAAAAAAAAA=
+StatusBar=Disabled
+ToolBarsMovable=Disabled
+eDP-1=eDP-1

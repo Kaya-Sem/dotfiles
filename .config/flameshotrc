@@ -1,0 +1,8 @@
+[FileDialogSize]
+1536x864 screen: Height=864
+1536x864 screen: Width=738
+
+[KFileDialog Settings]
+Recent Files[$e]=file:$HOME/Downloads/favio_hoofd.png,file:$HOME/Downloads/2024-01-28_20-52.png,file:$HOME/Downloads/noodles.png
+Recent URLs[$e]=file:$HOME/Pictures/,file:$HOME/Downloads/,file:$HOME/,file:$HOME/Documents/
+detailViewIconSize=16

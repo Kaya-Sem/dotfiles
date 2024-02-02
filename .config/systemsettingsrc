@@ -1,0 +1,26 @@
+[FileDialogSize]
+1536x864 screen: Height=864
+1536x864 screen: Width=738
+
+[KFileDialog Settings]
+Recent Files[$e]=startup.sh,file:$HOME/Syncthing/4. Github/startup.sh
+Recent URLs[$e]=file:$HOME/,file:$HOME/Syncthing/4. Github/
+detailViewIconSize=16
+
+[MainWindow]
+1536x864 screen: Height=864
+1536x864 screen: Width=1020
+1920x1080 screen: Height=1080
+1920x1080 screen: Width=1870
+1920x1080 screen: Window-Maximized=true
+1920x1080 screen: XPosition=0
+1920x1080 screen: YPosition=0
+2 screens: Height=1080
+2 screens: Width=1870
+2 screens: XPosition=0
+2 screens: YPosition=0
+HDMI-1 eDP-1=eDP-1
+MenuBar=Disabled
+State=AAAA/wAAAAD9AAAAAAAAB4AAAAQ4AAAABAAAAAQAAAAIAAAACPwAAAABAAAAAgAAAAEAAAAWAG0AYQBpAG4AVABvAG8AbABCAGEAcgAAAAAA/////wAAAAAAAAAA
+ToolBarsMovable=Disabled
+eDP-1=eDP-1

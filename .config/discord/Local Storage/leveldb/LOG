@@ -1,0 +1,10 @@
+2024/02/01-18:27:48.865 393d9 Reusing MANIFEST /home/kaya-sem/.config/discord/Local Storage/leveldb/MANIFEST-000001
+2024/02/01-18:27:48.866 393d9 Recovering log #713
+2024/02/01-18:27:48.892 393d9 Level-0 table #715: started
+2024/02/01-18:27:48.941 393d9 Level-0 table #715: 2833337 bytes OK
+2024/02/01-18:27:48.942 393d9 Recovering log #714
+2024/02/01-18:27:48.942 393d9 Reusing old log /home/kaya-sem/.config/discord/Local Storage/leveldb/000714.log 
+2024/02/01-18:27:48.945 393d9 Delete type=0 #713
+2024/02/01-18:31:55.796 393d5 Level-0 table #717: started
+2024/02/01-18:31:55.818 393d5 Level-0 table #717: 741079 bytes OK
+2024/02/01-18:31:55.823 393d5 Delete type=0 #714

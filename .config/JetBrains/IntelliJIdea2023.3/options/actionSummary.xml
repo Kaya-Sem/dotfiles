@@ -1,0 +1,40 @@
+<application>
+  <component name="ActionsLocalSummary">
+    <e n="EditorBackSpace">
+      <i c="34" l="1705771439999" />
+    </e>
+    <e n="EditorEnter">
+      <i c="7" l="1705771446290" />
+    </e>
+    <e n="ExpandRegion">
+      <i c="4" l="1705771248000" />
+    </e>
+    <e n="SaveAll">
+      <i c="1" l="1705771564831" />
+    </e>
+    <e n="ShowSettings">
+      <i c="3" l="1705771470064" />
+    </e>
+    <e n="WelcomeScreen.OpenProject">
+      <i c="1" l="1705771188414" />
+    </e>
+    <e n="com.intellij.openapi.actionSystem.AnActionWrapper">
+      <i c="2" l="1705771559237" />
+    </e>
+    <e n="com.intellij.openapi.ui.DialogWrapper$5">
+      <i c="1" l="1705771570609" />
+    </e>
+    <e n="com.intellij.openapi.wm.impl.HideAction">
+      <i c="2" l="1705771211083" />
+    </e>
+    <e n="com.intellij.openapi.wm.impl.SquareAnActionButton">
+      <i c="2" l="1705771205792" />
+    </e>
+    <e n="com.intellij.openapi.wm.impl.customFrameDecorations.header.toolbar.MainMenuButton$ShowMenuAction">
+      <i c="3" l="1705771467805" />
+    </e>
+    <e n="com.maddyhome.idea.vim.ui.ex.ExShortcutKeyAction">
+      <i c="3" l="1705771566273" />
+    </e>
+  </component>
+</application>

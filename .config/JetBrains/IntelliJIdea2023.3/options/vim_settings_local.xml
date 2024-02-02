@@ -1,0 +1,44 @@
+<application>
+  <component name="VimHistorySettings">
+    <history>
+      <history-cmd>
+        <entry encoding="base64">JXkr</entry>
+        <entry encoding="base64">dw==</entry>
+        <entry encoding="base64">cQ==</entry>
+      </history-cmd>
+    </history>
+  </component>
+  <component name="VimJumpsSettings">
+    <project id="/tmp/betere_nulpunten.java11065804403815712718">
+      <jump line="24" column="30" filename="$USER_HOME$/betere_nulpunten.java" />
+      <jump line="5" column="20" filename="$USER_HOME$/betere_nulpunten.java" />
+    </project>
+  </component>
+  <component name="VimMarksSettings">
+    <globalmarks />
+    <localmarks>
+      <file name="$USER_HOME$/betere_nulpunten.java" timestamp="1705771566310">
+        <mark key="&quot;" line="28" column="0" />
+      </file>
+    </localmarks>
+  </component>
+  <component name="VimRegisterSettings">
+    <registers>
+      <register name="&quot;" type="LINE_WISE">
+        <text encoding="base64">cHVibGljIHZvaWQgbnVscHVudGVuKGludCBhLCBpbnQgYiwgaW50IGMpIHsKCiBkb3VibGUgZGlzY3JpbWluYW50OwoKIC8vIEV2ZXJ5IHZhcmlhYmxlIGlzIGEgcG9zaXRpdmUgaW50ZWdlci4KIGlmICghIGMgPT0gMCAmJiAhIGIgPT0gMCAmJiBhID09IDApIHsKICBkaXNjcmltaW5hbnQgPSAoYiAqIGIpIC0gKDQgKiBhICogYyk7CiAgaWYgKGQgPCAwKSB7CiAgIFN5c3RlbS5vdXQucHJpbnRsbigiRGUgdmVlbHRlcm0gXCIiICsgYSArICIqeF4yICsgIiArIGIgKyAiKnggKyAiICsgYyArICJcIiBoZWVmdCAwIG51bHB1bnRlbi4iKTsKICB9IGVsc2UgaWYgKGQgPT0gMCkgewogICAgZG91YmxlIG51bHB1bnQgPSAoLWIgKyBkKSAvICgyICogYSk7CiAgICBTeXN0ZW0ub3V0LnByaW50bG4oIkRlIHZlZWx0ZXJtIFwiIiArIGEgKyAiKnheMiArICIgKyBiICsgIip4ICsgIiArIGMgKyAiXCIgaGVlZnQgMSBudWxwdW50LiIpOwogICAgU3lzdGVtLm91dC5wcmludGxuKCJubC4gIiArIG5wdCk7CiAgfQoKICBlbHNlIHsKICAgIGRvdWJsZSBucHQxID0gKC1iICsgTWF0aC5zcXJ0KGQpKSAvICgyICogYSk7CiAgICBkb3VibGUgbnB0MiA9ICgtYiAtIE1hdGguc3FydChkKSkgLyAoMiAqIGEpOwogICAgU3lzdGVtLm91dC5wcmludGxuKCJEZSB2ZWVsdGVybSBcIiIgKyBhICsgIip4XjIgKyAiICsgYiArICIqeCArICIgKyBjICsgIlwiIGhlZWZ0IDIgbnVscHVudGVuLiIpOwogICAgU3lzdGVtLm91dC5wcmludGxuKCJubC4gIiArIG5wdDEgKyAiIGVuICIgKyBucHQyKTsKICB9CiAgLy8gaWYgYSBhbmQgYyBhcmUgcG9zaXRpdmUgaW50ZWdlcnMsIGJ1dCBub3QgYgp9IGVsc2UgaWYgKGIgPT0gMCAmJiBjICE9IDApIHsKIFN5c3RlbS5vdXQucHJpbnRsbigiRGUgdmVlbHRlcm0iICsgYyArICJoZWVmdCBnZWVuIG51bHB1bnRlbi4iKTsKIC8vIGlmIGV2ZXJ5IHZhcmlhYmxlIGlzIHplcm8uCn0gZWxzZSB7CiAgIFN5c3RlbS5vdXQucHJpbnRsbigiRGUgdmVlbHRlcm0iICsgYyArICJoZWVmdCBvbmVpbmRpZyB2ZWVsIG51bHB1bnRlbi4iKTsKICB9Cg==</text>
+      </register>
+      <register name=":" type="CHARACTER_WISE">
+        <text encoding="base64">cQ==</text>
+      </register>
+      <register name="+" type="LINE_WISE">
+        <text encoding="base64">cHVibGljIHZvaWQgbnVscHVudGVuKGludCBhLCBpbnQgYiwgaW50IGMpIHsKCiBkb3VibGUgZGlzY3JpbWluYW50OwoKIC8vIEV2ZXJ5IHZhcmlhYmxlIGlzIGEgcG9zaXRpdmUgaW50ZWdlci4KIGlmICghIGMgPT0gMCAmJiAhIGIgPT0gMCAmJiBhID09IDApIHsKICBkaXNjcmltaW5hbnQgPSAoYiAqIGIpIC0gKDQgKiBhICogYyk7CiAgaWYgKGQgPCAwKSB7CiAgIFN5c3RlbS5vdXQucHJpbnRsbigiRGUgdmVlbHRlcm0gXCIiICsgYSArICIqeF4yICsgIiArIGIgKyAiKnggKyAiICsgYyArICJcIiBoZWVmdCAwIG51bHB1bnRlbi4iKTsKICB9IGVsc2UgaWYgKGQgPT0gMCkgewogICAgZG91YmxlIG51bHB1bnQgPSAoLWIgKyBkKSAvICgyICogYSk7CiAgICBTeXN0ZW0ub3V0LnByaW50bG4oIkRlIHZlZWx0ZXJtIFwiIiArIGEgKyAiKnheMiArICIgKyBiICsgIip4ICsgIiArIGMgKyAiXCIgaGVlZnQgMSBudWxwdW50LiIpOwogICAgU3lzdGVtLm91dC5wcmludGxuKCJubC4gIiArIG5wdCk7CiAgfQoKICBlbHNlIHsKICAgIGRvdWJsZSBucHQxID0gKC1iICsgTWF0aC5zcXJ0KGQpKSAvICgyICogYSk7CiAgICBkb3VibGUgbnB0MiA9ICgtYiAtIE1hdGguc3FydChkKSkgLyAoMiAqIGEpOwogICAgU3lzdGVtLm91dC5wcmludGxuKCJEZSB2ZWVsdGVybSBcIiIgKyBhICsgIip4XjIgKyAiICsgYiArICIqeCArICIgKyBjICsgIlwiIGhlZWZ0IDIgbnVscHVudGVuLiIpOwogICAgU3lzdGVtLm91dC5wcmludGxuKCJubC4gIiArIG5wdDEgKyAiIGVuICIgKyBucHQyKTsKICB9CiAgLy8gaWYgYSBhbmQgYyBhcmUgcG9zaXRpdmUgaW50ZWdlcnMsIGJ1dCBub3QgYgp9IGVsc2UgaWYgKGIgPT0gMCAmJiBjICE9IDApIHsKIFN5c3RlbS5vdXQucHJpbnRsbigiRGUgdmVlbHRlcm0iICsgYyArICJoZWVmdCBnZWVuIG51bHB1bnRlbi4iKTsKIC8vIGlmIGV2ZXJ5IHZhcmlhYmxlIGlzIHplcm8uCn0gZWxzZSB7CiAgIFN5c3RlbS5vdXQucHJpbnRsbigiRGUgdmVlbHRlcm0iICsgYyArICJoZWVmdCBvbmVpbmRpZyB2ZWVsIG51bHB1bnRlbi4iKTsKICB9Cg==</text>
+      </register>
+    </registers>
+  </component>
+  <component name="VimSearchSettings">
+    <search>
+      <last-dir encoding="base64">MQ==</last-dir>
+      <show-last encoding="base64">ZmFsc2U=</show-last>
+    </search>
+  </component>
+</application>

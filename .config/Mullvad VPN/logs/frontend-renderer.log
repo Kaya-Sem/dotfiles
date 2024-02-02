@@ -1,0 +1,22 @@
+[2024-01-07 20:29:30.428][verbose] Tunnel state: disconnected
+[2024-01-07 20:29:30.429][verbose] Initial: Wrong content height: 593, expected 568
+[2024-01-07 20:29:48.718][info] Logging in
+[2024-01-07 20:30:17.774][info] Logging in
+[2024-01-07 20:30:42.753][verbose] Tunnel state: connecting
+[2024-01-07 20:30:43.094][verbose] Tunnel state: connecting
+[2024-01-07 20:30:43.283][verbose] Tunnel state: connected
+[2024-01-07 20:33:49.415][verbose] Tunnel state: disconnecting
+[2024-01-07 20:33:49.430][verbose] Tunnel state: disconnecting
+[2024-01-07 20:33:49.664][verbose] Tunnel state: disconnected
+[2024-01-07 20:34:04.470][verbose] Tunnel state: connecting
+[2024-01-07 20:34:04.506][verbose] Tunnel state: connecting
+[2024-01-07 20:34:04.649][verbose] Tunnel state: connected
+[2024-01-07 20:39:36.234][verbose] Tunnel state: disconnecting
+[2024-01-07 20:39:36.274][verbose] Tunnel state: disconnecting
+[2024-01-07 20:39:36.499][verbose] Tunnel state: disconnected
+[2024-01-07 20:48:40.159][verbose] Tunnel state: connecting
+[2024-01-07 20:48:40.210][verbose] Tunnel state: connecting
+[2024-01-07 20:48:40.347][verbose] Tunnel state: connected
+[2024-01-07 21:31:09.498][verbose] Tunnel state: disconnecting
+[2024-01-07 21:31:09.673][verbose] Tunnel state: disconnecting
+[2024-01-07 21:31:09.814][verbose] Tunnel state: disconnected

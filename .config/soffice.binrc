@@ -1,0 +1,4 @@
+[KFileDialog Settings]
+Recent Files[$e]=file:$HOME/Documents/Server Build.ods,file:$HOME/Syncthing/Server Build.ods
+Recent URLs[$e]=file:$HOME/Documents/,file:$HOME/Syncthing/,file:$HOME/
+detailViewIconSize=16

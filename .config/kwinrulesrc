@@ -1,0 +1,21 @@
+[$Version]
+update_info=kwinrules.upd:replace-placement-string-to-enum,kwinrules.upd:use-virtual-desktop-ids
+
+[1]
+Description=no border
+noborder=true
+noborderrule=3
+wmclass=alacritty
+wmclasscomplete=true
+wmclassmatch=1
+
+[General]
+count=1
+rules=1
+
+[ecb45354-2cb1-448d-b178-80305dbc58c3]
+Description=no border
+noborder=true
+noborderrule=3
+wmclass=alacritty
+wmclassmatch=1

@@ -1,0 +1,6 @@
+[Desktop Entry]
+Exec='/home/kaya-sem/Syncthing/4. Github/startup.sh'
+Icon=dialog-scripts
+Name=startup.sh
+Type=Application
+X-KDE-AutostartScript=true

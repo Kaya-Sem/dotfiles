@@ -1,0 +1,14 @@
+[2024-01-07 20:29:29.400][verbose] Chromium sandbox is enabled
+[2024-01-07 20:29:29.400][info] Running version 2023.6
+[2024-01-07 20:29:29.401][verbose] Creating gui-settings file and writing the default settings to it
+[2024-01-07 20:29:29.526][info] Detected locale: en-US
+[2024-01-07 20:29:29.589][info] Connected to the daemon
+[2024-01-07 20:29:29.744][info] Skip autoconnect because account token is not set
+[2024-01-07 20:29:30.426][error] Failed to check autostart file: ENOENT: no such file or directory, access '/home/kaya-sem/.config/autostart/mullvad-vpn.desktop'
+[2024-01-07 20:29:48.780][error] Failed to login: invalid-account
+[2024-01-07 21:29:29.631][verbose] GRPC Channel connectivity state changed to 2
+[2024-01-07 21:31:18.238][info] Disconnected the tunnel
+[2024-01-07 21:31:18.239][info] before-quit received
+[2024-01-07 21:31:18.240][info] Quit initiated
+[2024-01-07 21:31:18.243][info] Unsubscribed from the daemon events
+[2024-01-07 21:31:18.249][verbose] GRPC Channel connectivity state changed to 4

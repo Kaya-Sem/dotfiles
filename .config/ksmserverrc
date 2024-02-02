@@ -1,0 +1,33 @@
+[$Version]
+update_info=ksmserver_update_loginMode_value.upd:ksmserver_update_loginMode_value_default_enum
+
+[LegacySession: saved at previous logout]
+clientMachine1=localhost
+clientMachine2=localhost
+command1=zathura
+command2=zathura
+count=2
+
+[Session: saved at previous logout]
+clientId1=10145dbd1dd000170660809400000028730004
+clientId2=10145dbd1dd000170660809400000028730005
+clientId3=10145dbd1dd000170660809400000028730006
+clientId4=10145dbd1dd000170660809500000028730008
+count=4
+discardCommand1[$e]=rm,$HOME/.config/session/yakuake_10145dbd1dd000170660809400000028730004_1706625973_141650
+program1=yakuake
+program2=/usr/lib/DiscoverNotifier
+program3=/usr/bin/firewall-applet
+program4=pulseaudio
+restartCommand1=yakuake,-session,10145dbd1dd000170660809400000028730004_1706625973_141650
+restartCommand2=/usr/lib/DiscoverNotifier,-session,10145dbd1dd000170660809400000028730005_1706625973_139464
+restartCommand3=/usr/bin/firewall-applet,-session,10145dbd1dd000170660809400000028730006_1706625973_139757,-name,firewall-applet
+restartCommand4=
+restartStyleHint1=0
+restartStyleHint2=0
+restartStyleHint3=0
+restartStyleHint4=0
+userId1=kaya-sem
+userId2=kaya-sem
+userId3=kaya-sem
+userId4=kaya-sem

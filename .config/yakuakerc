@@ -1,0 +1,8 @@
+[Dialogs]
+FirstRun=false
+
+[Window]
+Position=51
+ShowTabBar=false
+ShowTitleBar=false
+Width=100

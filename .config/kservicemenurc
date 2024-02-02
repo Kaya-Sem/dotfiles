@@ -1,0 +1,16 @@
+[Show]
+CreateK3bAudioProject=true
+CreateK3bDataProject=true
+CreateK3bVcdProject=true
+WriteCdImage=true
+compressfileitemaction=true
+extractfileitemaction=true
+forgetfileitemaction=true
+installFont=true
+kactivitymanagerd_fileitem_linking_plugin=true
+kdiff3fileitemaction=true
+plasmavaultfileitemaction=true
+runInKonsole=true
+setAsWallpaper=true
+sharefileitemaction=true
+tagsfileitemaction=true

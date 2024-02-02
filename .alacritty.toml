@@ -1,0 +1,72 @@
+#theme = "Ayu-Dark"
+
+#[[items]]
+#
+#[items.colors]
+#author = "Chris Kempson"
+#name = "3024 (dark)"
+#
+#[items.colors.bright]
+#black = "#5c5855"
+#blue = "#01a0e4"
+#cyan = "#b5e4f4"
+#green = "#01a252"
+#magenta = "#a16a94"
+#red = "#db2d20"
+#white = "#f7f7f7"
+#yellow = "#fded02"
+#
+#[items.colors.cursor]
+#cursor = "#a5a2a2"
+#text = "#090300"
+#
+#[items.colors.normal]
+#black = "#090300"
+#blue = "#01a0e4"
+#cyan = "#b5e4f4"
+#green = "#01a252"
+#magenta = "#a16a94"
+#red = "#db2d20"
+#white = "#a5a2a2"
+#yellow = "#fded02"
+#
+#[items.colors.primary]
+#background = "#090300"
+#foreground = "#a5a2a2"
+#
+#[[items]]
+#theme = "3024.dark"
+#
+#[colors.bright]
+#black = "#686868"
+#blue = "#59C2FF"
+#cyan = "#95E6CB"
+#green = "#C2D94C"
+#magenta = "#FFEE99"
+#red = "#F07178"
+#white = "#FFFFFF"
+#yellow = "#FFB454"
+#
+#[colors.normal]
+#black = "#01060E"
+#blue = "#53BDFA"
+#cyan = "#90E1C6"
+#green = "#91B362"
+#magenta = "#FAE994"
+#red = "#EA6C73"
+#white = "#C7C7C7"
+#yellow = "#F9AF4F"
+#
+#[colors.primary]
+#background = "#0A0E14"
+#foreground = "#B3B1AD"
+#
+#[font]
+#size = 9
+import = [
+	"~/.config/alacritty/themes/themes/carbonfox.toml"
+]
+[window]
+padding = {x = 5, y = 5}
+[font]
+size = 10

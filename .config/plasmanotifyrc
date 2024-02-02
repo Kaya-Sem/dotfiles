@@ -1,0 +1,6 @@
+[Applications][discord]
+Seen=true
+
+[DoNotDisturb]
+NotificationSoundsMuted=true
+Until=2025,1,2,15,8,55.736

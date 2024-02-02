@@ -1,0 +1,22 @@
+[$Version]
+update_info=delete_cursor_old_default_size.upd:DeleteCursorOldDefaultSize,kcminputrc_fix_botched_5_21_0.upd:kcminputrc_fix_botched_5_21_0_pre,kcminputrc_fix_botched_5_21_0.upd:kcminputrc_fix_botched_5_21_0,kcminputrc_repeat.upd:kcminputrc_migrate_key_repeat
+
+[ButtonRebinds][Mouse]
+ExtraButton2=Key,Alt+Tab
+
+[Keyboard]
+NumLock=0
+
+[Libinput][1133][16514][Logitech MX Master 3]
+PointerAccelerationProfile=2
+
+[Libinput][2][14][ETPS/2 Elantech Touchpad]
+Enabled=true
+LeftHanded=true
+
+[Mouse]
+X11LibInputXAccelProfileFlat=true
+cursorTheme=Adwaita
+
+[Tmp]
+update_info=delete_cursor_old_default_size.upd:DeleteCursorOldDefaultSize
