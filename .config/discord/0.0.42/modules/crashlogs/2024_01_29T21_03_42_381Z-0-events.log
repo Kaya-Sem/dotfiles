@@ -402,3 +402,37 @@
 2024-02-01T18:16:57.830Z 12: before-quit
 2024-02-01T18:16:57.834Z 13: window.close win2
 2024-02-01T18:16:57.936Z 14: webContents.destroyed web2
+2024-02-02T22:20:54.693Z 0: 
+
+----------------------------------------------
+2024-02-02T22:20:54.713Z 1: Discord starting: {"releaseChannel":"stable","version":"0.0.42"}, modulepath: /home/kaya-sem/.config/discord/0.0.42/modules
+2024-02-02T22:20:54.740Z 2: ✅ webContents.created web1 ""
+2024-02-02T22:20:54.746Z 3: ✅ window.created win1 "discord"
+2024-02-02T22:20:55.553Z 4: ✅ webContents.did-finish-load web1
+2024-02-02T22:20:56.131Z 5: ✅ webContents.created web2 ""
+2024-02-02T22:20:56.150Z 6: ✅ window.created win2 "Discord"
+2024-02-02T22:21:02.414Z 7: ✅ webContents.did-finish-load web2
+2024-02-02T22:21:02.514Z 8: window.close win1
+2024-02-02T22:21:02.567Z 9: webContents.destroyed web1
+2024-02-02T22:21:02.571Z 10: window.closed win1
+2024-02-02T22:26:54.792Z 11: window.close win2
+2024-02-02T22:26:54.800Z 12: before-quit
+2024-02-02T22:26:54.804Z 13: window.close win2
+2024-02-02T22:26:54.886Z 14: webContents.destroyed web2
+2024-02-02T22:38:00.454Z 0: 
+
+----------------------------------------------
+2024-02-02T22:38:00.502Z 1: Discord starting: {"releaseChannel":"stable","version":"0.0.42"}, modulepath: /home/kaya-sem/.config/discord/0.0.42/modules
+2024-02-02T22:38:00.509Z 2: ✅ webContents.created web1 ""
+2024-02-02T22:38:00.513Z 3: ✅ window.created win1 "discord"
+2024-02-02T22:38:01.166Z 4: ✅ webContents.did-finish-load web1
+2024-02-02T22:38:01.749Z 5: ✅ webContents.created web2 ""
+2024-02-02T22:38:01.767Z 6: ✅ window.created win2 "Discord"
+2024-02-02T22:38:07.147Z 7: ✅ webContents.did-finish-load web2
+2024-02-02T22:38:07.248Z 8: window.close win1
+2024-02-02T22:38:07.312Z 9: webContents.destroyed web1
+2024-02-02T22:38:07.341Z 10: window.closed win1
+2024-02-02T22:39:14.670Z 11: window.close win2
+2024-02-02T22:39:14.679Z 12: before-quit
+2024-02-02T22:39:14.683Z 13: window.close win2
+2024-02-02T22:39:14.820Z 14: webContents.destroyed web2

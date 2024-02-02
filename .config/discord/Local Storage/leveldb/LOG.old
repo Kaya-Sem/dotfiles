@@ -1,10 +1,17 @@
-2024/01/31-20:46:21.164 327bf Reusing MANIFEST /home/kaya-sem/.config/discord/Local Storage/leveldb/MANIFEST-000001
-2024/01/31-20:46:21.172 327bf Recovering log #708
-2024/01/31-20:46:21.173 327bf Level-0 table #713: started
-2024/01/31-20:46:21.183 327bf Level-0 table #713: 16091 bytes OK
-2024/01/31-20:46:21.184 327bf Recovering log #713
-2024/01/31-20:46:21.184 327bf Reusing old log /home/kaya-sem/.config/discord/Local Storage/leveldb/000713.log 
-2024/01/31-20:46:21.188 327bf Delete type=0 #708
-2024/01/31-20:46:21.188 327bf Delete type=2 #714
-2024/01/31-20:49:31.415 32acd Level-0 table #715: started
-2024/01/31-20:49:31.484 32acd Level-0 table #715: 2833337 bytes OK
+2024/02/02-23:20:54.610 42ef Reusing MANIFEST /home/kaya-sem/.config/discord/Local Storage/leveldb/MANIFEST-000001
+2024/02/02-23:20:54.611 42ef Recovering log #716
+2024/02/02-23:20:54.611 42ef Reusing old log /home/kaya-sem/.config/discord/Local Storage/leveldb/000716.log 
+2024/02/02-23:24:38.318 4305 Level-0 table #720: started
+2024/02/02-23:24:38.349 4305 Level-0 table #720: 2838025 bytes OK
+2024/02/02-23:24:38.353 4305 Delete type=0 #716
+2024/02/02-23:24:38.354 4305 Compacting 4@0 + 2@1 files
+2024/02/02-23:24:38.367 4305 Generated table #721@0: 15 keys, 2110470 bytes
+2024/02/02-23:24:38.422 4305 Generated table #722@0: 98 keys, 2801830 bytes
+2024/02/02-23:24:38.422 4305 Compacted 4@0 + 2@1 files => 4912300 bytes
+2024/02/02-23:24:38.425 4305 compacted to: files[ 0 4 0 0 0 0 0 ]
+2024/02/02-23:24:38.426 4305 Delete type=2 #710
+2024/02/02-23:24:38.426 4305 Delete type=2 #711
+2024/02/02-23:24:38.426 4305 Delete type=2 #713
+2024/02/02-23:24:38.426 4305 Delete type=2 #715
+2024/02/02-23:24:38.426 4305 Delete type=2 #717
+2024/02/02-23:24:38.426 4305 Delete type=2 #720
