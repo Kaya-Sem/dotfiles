@@ -144,6 +144,9 @@ alias Omega="ssh 192.168.1.31 -p 32 -l Kaya-Sem"
 PROMPT_COMMAND='PS1_CMD1=$(ip route get 1.1.1.1 | awk -F"src " '"'"'NR == 1{ split($2, a," ");print a[1]}'"'"')'; PS1='\[\e[2m\]${PS1_CMD1} \[\e[0;1m\]\u \[\e[0;3m\]\w \[\e[0m\]'
 alias v="nvim"
 alias cat="bat"
+alias cd='cdls'
 
+
+cdls() {cd "$@" && ls;}
 # Created by `pipx` on 2024-01-10 08:45:19
 export PATH="$PATH:/home/kaya-sem/.local/bin"

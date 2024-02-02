@@ -1,0 +1,7 @@
+[History]
+Directories[$e]=file:///,file:$HOME,file:///usr,lib,file:///home,file:///etc,file:///var,file:///mnt
+Patterns[$e]=*,yazi
+
+[KPropertiesDialog]
+2 screens: Height=532
+2 screens: Width=438

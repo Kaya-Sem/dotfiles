@@ -4,12 +4,12 @@
 
 [manager]
 ratio          = [ 1, 4, 3 ]
-sort_by        = "modified"
-sort_sensitive = true
-sort_reverse   = true
+sort_by        = "natural"
+sort_sensitive = false
+sort_reverse   = false
 sort_dir_first = true
 linemode       = "none"
-show_hidden    = true
+show_hidden    = false
 show_symlink   = true
 
 [preview]
@@ -25,7 +25,7 @@ ueberzug_offset = [ 0, 0, 0, 0 ]
 
 [opener]
 edit = [
-	{ exec = '$EDITOR "$@"', block = true,  for = "unix" },
+	{ exec = 'nvim "$@"', block = true,  for = "unix" },
 	{ exec = 'code "%*"',    orphan = true, for = "windows" },
 ]
 open = [
@@ -94,7 +94,9 @@ preloaders = [
 	{ mime = "application/pdf", exec = "pdf" },
 ]
 previewers = [
+  { mime = "*.md", exec = "glow" },
 	{ name = "*/", exec = "folder", sync = true },
+  { mime = "text/csv", exec = "miller_csv"},
 	# Code
 	{ mime = "text/*",                 exec = "code" },
 	{ mime = "*/xml",                  exec = "code" },
