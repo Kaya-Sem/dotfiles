@@ -13,6 +13,10 @@
       <jump line="24" column="30" filename="$USER_HOME$/betere_nulpunten.java" />
       <jump line="5" column="20" filename="$USER_HOME$/betere_nulpunten.java" />
     </project>
+    <project id="$USER_HOME$/Documents/untitled">
+      <jump line="0" column="0" filename="$USER_HOME$/Documents/untitled/build.gradle.kts" />
+      <jump line="0" column="0" filename="$USER_HOME$/Documents/untitled/src/main/java/org/example/Main.java" />
+    </project>
   </component>
   <component name="VimMarksSettings">
     <globalmarks />

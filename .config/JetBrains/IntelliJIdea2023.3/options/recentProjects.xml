@@ -18,8 +18,25 @@
             </RecentProjectMetaInfo>
           </value>
         </entry>
+        <entry key="$USER_HOME$/Documents/untitled">
+          <value>
+            <RecentProjectMetaInfo frameTitle="untitled – Main.java [untitled.main]" opened="true" projectWorkspaceId="2brsAbqAKdIUSX08Ptrx3ZumKDj">
+              <option name="activationTimestamp" value="1706984583221" />
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="build" value="IU-233.14015.106" />
+              <option name="buildTimestamp" value="1706158860000" />
+              <option name="colorInfo">
+                <RecentProjectColorInfo associatedIndex="2" />
+              </option>
+              <frame x="940" y="0" width="930" height="535" />
+              <option name="productionCode" value="IU" />
+              <option name="projectOpenTimestamp" value="1706984391920" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
       </map>
     </option>
-    <option name="lastOpenedProject" value="/tmp/betere_nulpunten.java11065804403815712718" />
+    <option name="lastOpenedProject" value="$USER_HOME$/Documents/untitled" />
+    <option name="lastProjectLocation" value="$USER_HOME$/Documents" />
   </component>
 </application>

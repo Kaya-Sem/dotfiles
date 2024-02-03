@@ -1,6 +1,14 @@
+[ExtractDialog]
+DirHistory[$e]=$HOME/Downloads/
+
 [General]
 LockSidebar=true
 ShowSidebar=true
+
+[KFileDialog Settings]
+Recent Files[$e]=nvim,file:$HOME/Downloads/nvim
+Recent URLs[$e]=file:$HOME/Downloads/
+detailViewIconSize=16
 
 [MainWindow]
 1536x864 screen: Height=836
@@ -10,7 +18,7 @@ ShowSidebar=true
 1920x1080 screen: Window-Maximized=true
 1920x1080 screen: XPosition=0
 1920x1080 screen: YPosition=0
-State=AAAA/wAAAAD9AAAAAQAAAAEAAACYAAAECvwCAAAAAfsAAAAWAGEAcgBrAF8AcwBpAGQAZQBiAGEAcgEAAAAuAAAECgAAAHMBAAACAAADCQAABAoAAAAEAAAABAAAAAgAAAAI/AAAAAEAAAACAAAAAQAAABYAbQBhAGkAbgBUAG8AbwBsAEIAYQByAQAAAAD/////AAAAAAAAAAA=
+State=AAAA/wAAAAD9AAAAAQAAAAEAAACYAAAB6fwCAAAAAfsAAAAWAGEAcgBrAF8AcwBpAGQAZQBiAGEAcgEAAAAuAAAB6QAAAHMBAAACAAADCQAAAekAAAAEAAAABAAAAAgAAAAI/AAAAAEAAAACAAAAAQAAABYAbQBhAGkAbgBUAG8AbwBsAEIAYQByAQAAAAD/////AAAAAAAAAAA=
 StatusBar=Disabled
 ToolBarsMovable=Disabled
 eDP-1=eDP-1

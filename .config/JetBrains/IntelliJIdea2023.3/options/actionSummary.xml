@@ -15,6 +15,9 @@
     <e n="ShowSettings">
       <i c="3" l="1705771470064" />
     </e>
+    <e n="WelcomeScreen.CreateNewProject">
+      <i c="1" l="1706984377151" />
+    </e>
     <e n="WelcomeScreen.OpenProject">
       <i c="1" l="1705771188414" />
     </e>
@@ -32,6 +35,9 @@
     </e>
     <e n="com.intellij.openapi.wm.impl.customFrameDecorations.header.toolbar.MainMenuButton$ShowMenuAction">
       <i c="3" l="1705771467805" />
+    </e>
+    <e n="com.intellij.ui.dsl.builder.components.SegmentedButtonAction">
+      <i c="1" l="1706984384809" />
     </e>
     <e n="com.maddyhome.idea.vim.ui.ex.ExShortcutKeyAction">
       <i c="3" l="1705771566273" />
