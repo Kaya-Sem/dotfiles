@@ -138,6 +138,8 @@ ex() {
 
 if [ -f ~/dotfiles/scripts/.bash_aliases ]; then
 	. ~/dotfiles/scripts/.bash_aliases
+else
+	echo "Warning: ~/dotfiles/scripts/.bash_aliases file not found. Create it and add your aliases."
 fi
 
 # Created by `pipx` on 2024-01-10 08:45:19
