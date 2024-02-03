@@ -3,8 +3,8 @@
 1536x864 screen: Width=738
 
 [KFileDialog Settings]
-Recent Files[$e]=startup.sh,file:$HOME/Syncthing/4. Github/startup.sh
-Recent URLs[$e]=file:$HOME/,file:$HOME/Syncthing/4. Github/
+Recent Files[$e]=startup.sh,file:$HOME/dotfiles/scripts/startup.sh
+Recent URLs[$e]=file:$HOME/,file:$HOME/Syncthing/4. Github/,file:$HOME/dotfiles/scripts/
 detailViewIconSize=16
 
 [MainWindow]
@@ -22,7 +22,6 @@ detailViewIconSize=16
 2 screens: YPosition=0
 HDMI-1 eDP-1=eDP-1
 MenuBar=Disabled
-RestorePositionForNextInstance=false
-State=AAAA/wAAAAD9AAAAAAAAB04AAAQ4AAAABAAAAAQAAAAIAAAACPwAAAABAAAAAgAAAAEAAAAWAG0AYQBpAG4AVABvAG8AbABCAGEAcgAAAAAA/////wAAAAAAAAAA
+State=AAAA/wAAAAD9AAAAAAAAA/wAAAQ4AAAABAAAAAQAAAAIAAAACPwAAAABAAAAAgAAAAEAAAAWAG0AYQBpAG4AVABvAG8AbABCAGEAcgAAAAAA/////wAAAAAAAAAA
 ToolBarsMovable=Disabled
 eDP-1=eDP-1

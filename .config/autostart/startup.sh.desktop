@@ -1,5 +1,5 @@
 [Desktop Entry]
-Exec='/home/kaya-sem/Syncthing/4. Github/startup.sh'
+Exec=/home/kaya-sem/dotfiles/scripts/startup.sh
 Icon=dialog-scripts
 Name=startup.sh
 Type=Application
