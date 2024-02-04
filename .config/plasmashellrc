@@ -1,6 +1,6 @@
 [KFileDialog Settings]
-Recent Files[$e]=functions_FILL0_wght400_GRAD0_opsz24.svg,file:$HOME/Downloads/check-solid.svg,file:$HOME/icons8-java.svg,file:$HOME/Pictures/terminal_FILL0_wght400_GRAD0_opsz24.svg,file:$HOME/Pictures/functions_FILL0_wght400_GRAD0_opsz24.svg
-Recent URLs[$e]=file:$HOME/Pictures/,file:$HOME/,file:$HOME/Syncthing/1. Obsidian/UGent Informatica/2023-2024/SEM1/Programmeren/,file:$HOME/Downloads/
+Recent Files[$e]=functions_FILL0_wght400_GRAD0_opsz24.svg,file:$HOME/Downloads/background.jpg
+Recent URLs[$e]=file:$HOME/Pictures/,file:$HOME/,file:$HOME/Downloads/,file:$HOME/Documents/,file:$HOME/Music/
 detailViewIconSize=16
 
 [KPropertiesDialog]
@@ -14,6 +14,7 @@ PreloadWeight=0
 
 [PlasmaViews][Panel 2]
 alignment=132
+panelVisibility=1
 
 [PlasmaViews][Panel 2][Defaults]
 thickness=50

@@ -1,12 +1,12 @@
 #!/bin/bash
 
 # Define the download paths
-dailymix1_path="/home/kayasem/Music/spotify_downloads/dailymix_1"  
-dailymix2_path="/home/kayasem/Music/spotify_downloads/dailymix_2"  
-dailymix3_path="/home/kayasem/Music/spotify_downloads/dailymix_3"  
-dailymix4_path="/home/kayasem/Music/spotify_downloads/dailymix_4"  
-dailymix5_path="/home/kayasem/Music/spotify_downloads/dailymix_5"  
-dailymix6_path="/home/kayasem/Music/spotify_downloads/dailymix_6"  
+dailymix1_path="/home/kayasem/Music/spotify_downloads/dailymix_1"
+dailymix2_path="/home/kayasem/Music/spotify_downloads/dailymix_2"
+dailymix3_path="/home/kayasem/Music/spotify_downloads/dailymix_3"
+dailymix4_path="/home/kayasem/Music/spotify_downloads/dailymix_4"
+dailymix5_path="/home/kayasem/Music/spotify_downloads/dailymix_5"
+dailymix6_path="/home/kayasem/Music/spotify_downloads/dailymix_6"
 
 discover_weekly_path="/home/kayasem/Music/spotify_downloads/discover_weekly"
 
