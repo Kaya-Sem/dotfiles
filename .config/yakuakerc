@@ -6,3 +6,7 @@ Position=51
 ShowTabBar=false
 ShowTitleBar=false
 Width=100
+
+[Appearance]
+Blur=true
+Translucency=true

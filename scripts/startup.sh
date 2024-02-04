@@ -1,4 +1,4 @@
 #!/bin/bash
 
-yakuake &
+tilda &
 syncthing --no-browser

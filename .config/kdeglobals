@@ -140,7 +140,7 @@ DirSelectDialog Size=844,598
 History Items[$e]=file:$HOME/Syncthing/1. Obsidian/UGent Informatica/2023-2024/SEM1/Redeneren\\, abstraheren en formuleren,file:$HOME/Syncthing/1. Obsidian/UGent Informatica/2023-2024/SEM1/Programmeren,file:$HOME/Syncthing/1. Obsidian/UGent Informatica/2023-2024/SEM1/Computergebruik,file:$HOME/Syncthing/1. Obsidian/UGent Informatica/2023-2024/SEM1/Discrete wiskunde,file:$HOME/Music,file:$HOME/Music,smb://192.168.1.22/Omega,file:$HOME/Syncthing,file:$HOME/Syncthing
 
 [General]
-BrowserApplication=firefox.desktop
+BrowserApplication=min.desktop
 ColorSchemeHash=01662607e36cd33eacc7d7d7189f69c26b9a2cc8
 TerminalApplication=alacritty
 TerminalService=Alacritty.desktop

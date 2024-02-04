@@ -217,7 +217,7 @@ immutability=1
 plugin=org.kde.plasma.volume
 
 [Containments][8][Applets][16][Configuration]
-PreloadWeight=85
+PreloadWeight=90
 
 [Containments][8][Applets][16][Configuration][General]
 migrated=true
@@ -284,5 +284,5 @@ knownItems=org.kde.plasma.bluetooth,org.kde.plasma.battery,org.kde.plasma.clipbo
 shownItems=org.kde.plasma.keyboardlayout,flameshot
 
 [ScreenMapping]
-itemsOnDisabledScreens=0,d011a43a-20dc-4a4c-8d00-038382dc3e19,8,desktop:/dotfiles,desktop:/Documents,desktop:/Downloads,desktop:/Music,desktop:/Pictures,desktop:/scripts,desktop:/Desktop,desktop:/Videos
+itemsOnDisabledScreens=0,d011a43a-20dc-4a4c-8d00-038382dc3e19,8,desktop:/Downloads,desktop:/Music,desktop:/Pictures,desktop:/Videos,desktop:/Desktop,desktop:/dotfiles,desktop:/Documents,desktop:/scripts
 screenMapping=

@@ -150,6 +150,11 @@ ctime=1704063089
 done=split-variants
 mtime=1701816132
 
+[okular.upd]
+ctime=1707044906
+done=annotation-toolbar,builtin-annotations
+mtime=1701857285
+
 [plasmashell-5.27-use-panel-thickness-in-default-group.upd]
 ctime=1704063088
 done=plasmashell-5.27-use-panel-thickness-in-default-group

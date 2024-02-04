@@ -1,27 +1,21 @@
-00:00:00.657920 VirtualBox GUI VM Selector Window 7.0.12 r159484 linux.amd64 (Oct 17 2023 12:57:12) release log
-00:00:00.657922 Log opened 2024-01-16T09:37:11.193066000Z
-00:00:00.657923 Build Type: release
-00:00:00.657925 OS Product: Linux
-00:00:00.657926 OS Release: 6.6.10-arch1-1
-00:00:00.657927 OS Version: #1 SMP PREEMPT_DYNAMIC Fri, 05 Jan 2024 16:20:41 +0000
-00:00:00.657947 DMI Product Name: HP Pavilion Laptop 15-cs0xxx
-00:00:00.657955 DMI Product Version: Type1ProductConfigId
-00:00:00.657959 Firmware type: UEFI
-00:00:00.658506 Secure Boot: Disabled
-00:00:00.658556 Host RAM: 7824MB (7.6GB) total, 7008MB (6.8GB) available
-00:00:00.658560 Executable: /usr/lib/virtualbox/VirtualBox
-00:00:00.658560 Process ID: 3883
-00:00:00.658561 Package type: LINUX_64BITS_GENERIC (OSE)
-00:00:00.658601 Qt version: 5.15.12
-00:00:00.659476 GUI: UIMediumEnumerator: Initial medium-enumeration finished!
-00:00:00.663284 GUI: UIMediumEnumerator: Medium-enumeration started...
-00:00:00.663319 GUI: UIMediumEnumerator: Medium-enumeration finished!
-00:00:01.201563 GUI: UIDesktopWidgetWatchdog::sltHandleHostScreenAvailableGeometryCalculated: Screen 0 work area is actually resized to: 0x0 x 1870x1080
-00:00:41.089140 GUI: UIMediumEnumerator: Medium with key={{78ff693e-39a1-4350-b93e-7a427719aa46}} created
-00:00:41.241760 GUI: UIMediumEnumerator: Medium-enumeration finished!
-00:00:46.769755 ERROR [COM]: aRC=NS_ERROR_UNEXPECTED (0x8000ffff) aIID={c0447716-ff5a-4795-b57a-ecd5fffa18a4} aComponent={SessionWrap} aText={The session is not locked (session state: Unlocked)}, preserve=false aResultDetail=0
-00:01:40.644564 GUI: UIMediumEnumerator: Medium with key={{5b8cb2b0-af5b-4a8d-887e-cb8300b1749b}} created
-00:01:40.792505 GUI: UIMediumEnumerator: Medium-enumeration finished!
-00:01:44.487614 ERROR [COM]: aRC=NS_ERROR_UNEXPECTED (0x8000ffff) aIID={c0447716-ff5a-4795-b57a-ecd5fffa18a4} aComponent={SessionWrap} aText={The session is not locked (session state: Unlocked)}, preserve=false aResultDetail=0
-00:02:09.808686 GUI: UICommon: Handling aboutToQuit request..
-00:02:10.412357 GUI: UICommon: aboutToQuit request handled!
+00:00:02.088594 VirtualBox GUI VM Selector Window 7.0.14 r161095 linux.amd64 (Jan 19 2024 13:54:29) release log
+00:00:02.088598 Log opened 2024-02-04T15:37:15.199788000Z
+00:00:02.088599 Build Type: release
+00:00:02.088602 OS Product: Linux
+00:00:02.088605 OS Release: 6.7.3-arch1-1
+00:00:02.088607 OS Version: #1 SMP PREEMPT_DYNAMIC Thu, 01 Feb 2024 10:30:35 +0000
+00:00:02.088636 DMI Product Name: HP Pavilion Laptop 15-cs0xxx
+00:00:02.088652 DMI Product Version: Type1ProductConfigId
+00:00:02.088659 Firmware type: UEFI
+00:00:02.089574 Secure Boot: Disabled
+00:00:02.089646 Host RAM: 7824MB (7.6GB) total, 5842MB (5.7GB) available
+00:00:02.089652 Executable: /usr/lib/virtualbox/VirtualBox
+00:00:02.089653 Process ID: 136905
+00:00:02.089654 Package type: LINUX_64BITS_GENERIC (OSE)
+00:00:02.089747 Qt version: 5.15.12
+00:00:02.091310 GUI: UIMediumEnumerator: Initial medium-enumeration finished!
+00:00:02.098649 GUI: UIMediumEnumerator: Medium-enumeration started...
+00:00:02.098703 GUI: UIMediumEnumerator: Medium-enumeration finished!
+00:00:03.206310 GUI: UIDesktopWidgetWatchdog::sltHandleHostScreenAvailableGeometryCalculated: Screen 0 work area is actually resized to: 8x8 x 947x1064
+00:03:15.415460 GUI: UICommon: Handling aboutToQuit request..
+00:03:15.896416 GUI: UICommon: aboutToQuit request handled!

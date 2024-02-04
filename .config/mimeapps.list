@@ -16,8 +16,8 @@ text/plain=nvim.desktop;vim.desktop;org.kde.kate.desktop;org.kde.kwrite.desktop;
 video/mp4=vlc.desktop;mpv.desktop;
 x-scheme-handler/chrome=floorp.desktop;
 x-scheme-handler/geo=qwant-maps-geo-handler.desktop;
-x-scheme-handler/http=firefox.desktop;floorp.desktop;
-x-scheme-handler/https=firefox.desktop;floorp.desktop;
+x-scheme-handler/http=min.desktop;firefox.desktop;floorp.desktop;
+x-scheme-handler/https=min.desktop;firefox.desktop;floorp.desktop;
 
 [Default Applications]
 application/pdf=org.pwmt.zathura.desktop;
@@ -37,5 +37,5 @@ text/plain=nvim.desktop;
 video/mp4=vlc.desktop;
 x-scheme-handler/chrome=floorp.desktop
 x-scheme-handler/geo=qwant-maps-geo-handler.desktop;
-x-scheme-handler/http=firefox.desktop;
-x-scheme-handler/https=firefox.desktop;
+x-scheme-handler/http=min.desktop;
+x-scheme-handler/https=min.desktop;
