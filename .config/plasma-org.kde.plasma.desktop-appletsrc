@@ -95,14 +95,6 @@ plugin=org.kde.plasma.icon
 localPath=/home/kaya-sem/.local/share/plasma_icons/min.desktop
 url=file:///usr/share/applications/min.desktop
 
-[Containments][2][Applets][39]
-immutability=1
-plugin=org.kde.plasma.icon
-
-[Containments][2][Applets][39][Configuration]
-localPath=/home/kaya-sem/.local/share/plasma_icons/RAF_cursus.pdf.desktop
-url=file:///home/kaya-sem/Syncthing/1. Obsidian/UGent Informatica/2023-2024/SEM1/Redeneren, abstraheren en formuleren/RAF_cursus.pdf
-
 [Containments][2][Applets][4]
 immutability=1
 plugin=org.kde.plasma.pager
@@ -136,7 +128,7 @@ DialogHeight=1080
 DialogWidth=168
 
 [Containments][2][General]
-AppletOrder=32;27;28;29;30;33;39;43;23;4;6;7;3
+AppletOrder=32;27;28;29;30;33;43;23;4;6;7;3
 
 [Containments][44]
 activityId=d011a43a-20dc-4a4c-8d00-038382dc3e19

@@ -1,3 +1,3 @@
-2024/02/03-15:54:02.573 19cb Reusing MANIFEST /home/kaya-sem/.config/Min/IndexedDB/file__0.indexeddb.leveldb/MANIFEST-000001
-2024/02/03-15:54:02.574 19cb Recovering log #15
-2024/02/03-15:54:02.601 19cb Reusing old log /home/kaya-sem/.config/Min/IndexedDB/file__0.indexeddb.leveldb/000015.log 
+2024/02/04-17:57:22.151 45aa Reusing MANIFEST /home/kaya-sem/.config/Min/IndexedDB/file__0.indexeddb.leveldb/MANIFEST-000001
+2024/02/04-17:57:22.151 45aa Recovering log #15
+2024/02/04-17:57:22.187 45aa Reusing old log /home/kaya-sem/.config/Min/IndexedDB/file__0.indexeddb.leveldb/000015.log 
