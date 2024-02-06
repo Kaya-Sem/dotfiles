@@ -1,0 +1,118 @@
+[2024-02-05 14:50:02.783] [info]  No state version found, assuming empty state.
+[2024-02-05 14:50:39.597] [info]  Error: No password found
+[2024-02-05 14:50:39.762] [info]  Error: No password found
+[2024-02-05 14:50:39.763] [info]  Error: No password found
+[2024-02-05 14:50:39.798] [info]  TypeError: Cannot read properties of undefined (reading 'deleteBiometricKey')
+    at BiometricsService.<anonymous> (/usr/lib/bitwarden/app.asar/main.js:49742:55)
+    at Generator.next (<anonymous>)
+    at /usr/lib/bitwarden/app.asar/main.js:49650:71
+    at new Promise (<anonymous>)
+    at biometrics_service_awaiter (/usr/lib/bitwarden/app.asar/main.js:49646:12)
+    at BiometricsService.deleteBiometricKey (/usr/lib/bitwarden/app.asar/main.js:49740:16)
+    at DesktopCredentialStorageListener.<anonymous> (/usr/lib/bitwarden/app.asar/main.js:49949:45)
+    at Generator.next (<anonymous>)
+    at /usr/lib/bitwarden/app.asar/main.js:49826:71
+    at new Promise (<anonymous>)
+[2024-02-05 14:50:39.800] [info]  TypeError: Cannot read properties of undefined (reading 'deleteBiometricKey')
+    at BiometricsService.<anonymous> (/usr/lib/bitwarden/app.asar/main.js:49742:55)
+    at Generator.next (<anonymous>)
+    at /usr/lib/bitwarden/app.asar/main.js:49650:71
+    at new Promise (<anonymous>)
+    at biometrics_service_awaiter (/usr/lib/bitwarden/app.asar/main.js:49646:12)
+    at BiometricsService.deleteBiometricKey (/usr/lib/bitwarden/app.asar/main.js:49740:16)
+    at DesktopCredentialStorageListener.<anonymous> (/usr/lib/bitwarden/app.asar/main.js:49949:45)
+    at Generator.next (<anonymous>)
+    at /usr/lib/bitwarden/app.asar/main.js:49826:71
+    at new Promise (<anonymous>)
+[2024-02-05 14:50:40.067] [info]  Finished search indexing
+[2024-02-05 14:50:40.987] [info]  Finished search indexing
+[2024-02-05 14:51:03.517] [error] TypeError: Object has been destroyed
+    at WindowMain.<anonymous> (/usr/lib/bitwarden/app.asar/main.js:48177:36)
+    at Generator.next (<anonymous>)
+    at /usr/lib/bitwarden/app.asar/main.js:47947:71
+    at new Promise (<anonymous>)
+    at window_main_awaiter (/usr/lib/bitwarden/app.asar/main.js:47943:12)
+    at WindowMain.updateWindowState (/usr/lib/bitwarden/app.asar/main.js:48172:16)
+    at WindowMain.<anonymous> (/usr/lib/bitwarden/app.asar/main.js:48106:28)
+    at Generator.next (<anonymous>)
+    at /usr/lib/bitwarden/app.asar/main.js:47947:71
+    at new Promise (<anonymous>)
+[2024-02-05 14:51:42.730] [info]  State version: 9
+[2024-02-05 14:51:42.738] [info]  Migrator Hc (to version 2) should migrate: false - up
+[2024-02-05 14:51:42.739] [info]  Migrator Nc (to version 3) should migrate: false - up
+[2024-02-05 14:51:42.742] [info]  Migrator Fc (to version 4) should migrate: false - up
+[2024-02-05 14:51:42.743] [info]  Migrator Rc (to version 5) should migrate: false - up
+[2024-02-05 14:51:42.744] [info]  Migrator Kc (to version 6) should migrate: false - up
+[2024-02-05 14:51:42.745] [info]  Migrator Jc (to version 7) should migrate: false - up
+[2024-02-05 14:51:42.745] [info]  Migrator zc (to version 8) should migrate: false - up
+[2024-02-05 14:51:42.745] [info]  Migrator Gc (to version 9) should migrate: false - up
+[2024-02-05 14:51:42.794] [info]  Error: No password found
+[2024-02-05 14:51:42.840] [info]  Error: No password found
+[2024-02-05 14:51:42.874] [info]  Error: No password found
+[2024-02-05 14:51:43.013] [info]  Error: No password found
+[2024-02-05 14:51:43.019] [info]  Error: No password found
+[2024-02-05 14:51:43.093] [info]  Error: No password found
+[2024-02-05 14:51:43.122] [info]  TypeError: Cannot read properties of undefined (reading 'osSupportsBiometric')
+    at BiometricsService.<anonymous> (/usr/lib/bitwarden/app.asar/main.js:49689:55)
+    at Generator.next (<anonymous>)
+    at /usr/lib/bitwarden/app.asar/main.js:49650:71
+    at new Promise (<anonymous>)
+    at biometrics_service_awaiter (/usr/lib/bitwarden/app.asar/main.js:49646:12)
+    at BiometricsService.osSupportsBiometric (/usr/lib/bitwarden/app.asar/main.js:49688:16)
+    at BiometricsService.<anonymous> (/usr/lib/bitwarden/app.asar/main.js:49699:58)
+    at Generator.next (<anonymous>)
+    at fulfilled (/usr/lib/bitwarden/app.asar/main.js:49647:58)
+[2024-02-05 14:51:43.123] [info]  TypeError: Cannot read properties of undefined (reading 'osSupportsBiometric')
+    at BiometricsService.<anonymous> (/usr/lib/bitwarden/app.asar/main.js:49689:55)
+    at Generator.next (<anonymous>)
+    at /usr/lib/bitwarden/app.asar/main.js:49650:71
+    at new Promise (<anonymous>)
+    at biometrics_service_awaiter (/usr/lib/bitwarden/app.asar/main.js:49646:12)
+    at BiometricsService.osSupportsBiometric (/usr/lib/bitwarden/app.asar/main.js:49688:16)
+    at DesktopCredentialStorageListener.<anonymous> (/usr/lib/bitwarden/app.asar/main.js:49898:59)
+    at Generator.next (<anonymous>)
+    at /usr/lib/bitwarden/app.asar/main.js:49826:71
+    at new Promise (<anonymous>)
+[2024-02-05 14:51:43.223] [info]  Error: No password found
+[2024-02-05 14:51:43.286] [info]  Error: No password found
+[2024-02-05 14:51:43.944] [info]  Error: No password found
+[2024-02-05 14:51:43.967] [info]  Error: No password found
+[2024-02-05 14:51:44.052] [info]  Error: No password found
+[2024-02-05 14:51:44.165] [info]  Error: No password found
+[2024-02-05 14:51:44.169] [info]  Error: No password found
+[2024-02-05 14:51:44.347] [info]  Error: No password found
+[2024-02-05 14:51:45.914] [info]  Error: No password found
+[2024-02-05 14:51:47.231] [info]  TypeError: Cannot read properties of undefined (reading 'deleteBiometricKey')
+    at BiometricsService.<anonymous> (/usr/lib/bitwarden/app.asar/main.js:49742:55)
+    at Generator.next (<anonymous>)
+    at /usr/lib/bitwarden/app.asar/main.js:49650:71
+    at new Promise (<anonymous>)
+    at biometrics_service_awaiter (/usr/lib/bitwarden/app.asar/main.js:49646:12)
+    at BiometricsService.deleteBiometricKey (/usr/lib/bitwarden/app.asar/main.js:49740:16)
+    at DesktopCredentialStorageListener.<anonymous> (/usr/lib/bitwarden/app.asar/main.js:49949:45)
+    at Generator.next (<anonymous>)
+    at /usr/lib/bitwarden/app.asar/main.js:49826:71
+    at new Promise (<anonymous>)
+[2024-02-05 14:51:47.237] [info]  TypeError: Cannot read properties of undefined (reading 'deleteBiometricKey')
+    at BiometricsService.<anonymous> (/usr/lib/bitwarden/app.asar/main.js:49742:55)
+    at Generator.next (<anonymous>)
+    at /usr/lib/bitwarden/app.asar/main.js:49650:71
+    at new Promise (<anonymous>)
+    at biometrics_service_awaiter (/usr/lib/bitwarden/app.asar/main.js:49646:12)
+    at BiometricsService.deleteBiometricKey (/usr/lib/bitwarden/app.asar/main.js:49740:16)
+    at DesktopCredentialStorageListener.<anonymous> (/usr/lib/bitwarden/app.asar/main.js:49949:45)
+    at Generator.next (<anonymous>)
+    at /usr/lib/bitwarden/app.asar/main.js:49826:71
+    at new Promise (<anonymous>)
+[2024-02-05 14:51:47.564] [info]  Finished search indexing
+[2024-02-05 14:52:15.111] [error] TypeError: Object has been destroyed
+    at WindowMain.<anonymous> (/usr/lib/bitwarden/app.asar/main.js:48177:36)
+    at Generator.next (<anonymous>)
+    at /usr/lib/bitwarden/app.asar/main.js:47947:71
+    at new Promise (<anonymous>)
+    at window_main_awaiter (/usr/lib/bitwarden/app.asar/main.js:47943:12)
+    at WindowMain.updateWindowState (/usr/lib/bitwarden/app.asar/main.js:48172:16)
+    at WindowMain.<anonymous> (/usr/lib/bitwarden/app.asar/main.js:48106:28)
+    at Generator.next (<anonymous>)
+    at /usr/lib/bitwarden/app.asar/main.js:47947:71
+    at new Promise (<anonymous>)
