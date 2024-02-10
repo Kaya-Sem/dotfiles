@@ -15,10 +15,17 @@ detailViewIconSize=16
 1920x1080 screen: Width=947
 1920x1080 screen: XPosition=8
 1920x1080 screen: YPosition=8
+2 screens: Height=1064
+2 screens: Width=947
+2 screens: XPosition=8
+2 screens: YPosition=8
+HDMI-1 eDP-1=eDP-1
 State=AAAA/wAAAAD9AAAAAQAAAAAAAADIAAAD3PwCAAAAAfsAAAAcAG8AawB1AGwAYQByAF8AcwBpAGQAZQBiAGEAcgEAAABMAAAD3AAAAQ4BAAACAAAC6gAAA9wAAAAEAAAABAAAAAgAAAAI/AAAAAMAAAABAAAAAQAAACwAcQB1AGkAYwBrAEEAbgBuAG8AdABhAHQAaQBvAG4AVABvAG8AbABCAGEAcgIAAAAA/////wAAAAAAAAAAAAAAAgAAAAEAAAAWAG0AYQBpAG4AVABvAG8AbABCAGEAcgEAAAAA/////wAAAAAAAAAAAAAAAgAAAAEAAAAiAGEAbgBuAG8AdABhAHQAaQBvAG4AVABvAG8AbABCAGEAcgAAAAAA/////wAAAAAAAAAA
 ToolBarsMovable=Disabled
 eDP-1=eDP-1
 
 [Recent Files]
 File1[$e]=$HOME/Documents/00-09 Obsidian/01 UGent Informatica/01.09 Archive/SEM1 2023-2024/Databanken/normalization.pdf
+File2[$e]=$HOME/Downloads/Atomic Habits -- Clear, James -- 2018 -- 大海出版社 -- b95d316ae28c4348fde06c4dc05deeb7 -- Anna’s Archive.epub
 Name1[$e]=normalization.pdf
+Name2[$e]=Atomic Habits -- Clear, James -- 2018 -- 大海出版社 -- b95d316ae28c4348fde06c4dc05deeb7 -- Anna’s Archive.epub

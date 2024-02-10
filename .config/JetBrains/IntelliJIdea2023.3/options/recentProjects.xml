@@ -34,9 +34,25 @@
             </RecentProjectMetaInfo>
           </value>
         </entry>
+        <entry key="$USER_HOME$/Documents/rooftopper">
+          <value>
+            <RecentProjectMetaInfo frameTitle="Rooftopper – main.dart" opened="true" projectWorkspaceId="2c8zumYW20UzjUibc8uFebvG1h8">
+              <option name="activationTimestamp" value="1707509503932" />
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="build" value="IU-233.14015.106" />
+              <option name="buildTimestamp" value="1706158860000" />
+              <option name="colorInfo">
+                <RecentProjectColorInfo associatedIndex="3" />
+              </option>
+              <frame x="8" y="8" width="947" height="1064" extendedState="6" />
+              <option name="productionCode" value="IU" />
+              <option name="projectOpenTimestamp" value="1707508231644" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
       </map>
     </option>
-    <option name="lastOpenedProject" value="$USER_HOME$/Documents/untitled" />
+    <option name="lastOpenedProject" value="$USER_HOME$/Documents/rooftopper" />
     <option name="lastProjectLocation" value="$USER_HOME$/Documents" />
   </component>
 </application>

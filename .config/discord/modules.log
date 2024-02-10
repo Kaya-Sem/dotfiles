@@ -5668,3 +5668,241 @@
 2024-02-05T15:03:06.015Z [Modules] Host is up to date.
 2024-02-05T15:03:06.016Z [Modules] Checking for module updates at https://discord.com/api/modules/stable/versions.json
 2024-02-05T15:03:06.019Z [Modules] No module updates available.
+2024-02-06T16:13:32.361Z [Modules] Modules initializing
+2024-02-06T16:13:32.362Z [Modules] Distribution: remote
+2024-02-06T16:13:32.362Z [Modules] Host updates: enabled
+2024-02-06T16:13:32.362Z [Modules] Module updates: enabled
+2024-02-06T16:13:32.362Z [Modules] Module install path: /home/kaya-sem/.config/discord/0.0.42/modules
+2024-02-06T16:13:32.363Z [Modules] Module installed file path: /home/kaya-sem/.config/discord/0.0.42/modules/installed.json
+2024-02-06T16:13:32.363Z [Modules] Module download path: /home/kaya-sem/.config/discord/0.0.42/modules/pending
+2024-02-06T16:13:32.822Z [Modules] No updates to install
+2024-02-06T16:13:32.823Z [Modules] Checking for host updates.
+2024-02-06T16:13:33.198Z [Modules] Host is up to date.
+2024-02-06T16:13:33.200Z [Modules] Checking for module updates at https://discord.com/api/modules/stable/versions.json
+2024-02-06T16:13:33.276Z [Modules] Module update available: discord_voice@2 [installed: 1]
+2024-02-06T16:13:33.280Z [Modules] Fetching discord_voice@2 from https://discord.com/api/modules/stable/discord_voice/2
+2024-02-06T16:13:33.280Z [Modules] Streaming discord_voice@2 to /home/kaya-sem/.config/discord/0.0.42/modules/pending/discord_voice-2.zip
+2024-02-06T16:13:33.662Z [Modules] Streaming discord_voice@2 to /home/kaya-sem/.config/discord/0.0.42/modules/pending/discord_voice-2.zip: 1%
+2024-02-06T16:13:33.734Z [Modules] Streaming discord_voice@2 to /home/kaya-sem/.config/discord/0.0.42/modules/pending/discord_voice-2.zip: 2%
+2024-02-06T16:13:33.738Z [Modules] Streaming discord_voice@2 to /home/kaya-sem/.config/discord/0.0.42/modules/pending/discord_voice-2.zip: 3%
+2024-02-06T16:13:33.746Z [Modules] Streaming discord_voice@2 to /home/kaya-sem/.config/discord/0.0.42/modules/pending/discord_voice-2.zip: 4%
+2024-02-06T16:13:33.766Z [Modules] Streaming discord_voice@2 to /home/kaya-sem/.config/discord/0.0.42/modules/pending/discord_voice-2.zip: 5%
+2024-02-06T16:13:33.848Z [Modules] Streaming discord_voice@2 to /home/kaya-sem/.config/discord/0.0.42/modules/pending/discord_voice-2.zip: 6%
+2024-02-06T16:13:33.863Z [Modules] Streaming discord_voice@2 to /home/kaya-sem/.config/discord/0.0.42/modules/pending/discord_voice-2.zip: 7%
+2024-02-06T16:13:33.876Z [Modules] Streaming discord_voice@2 to /home/kaya-sem/.config/discord/0.0.42/modules/pending/discord_voice-2.zip: 8%
+2024-02-06T16:13:33.938Z [Modules] Streaming discord_voice@2 to /home/kaya-sem/.config/discord/0.0.42/modules/pending/discord_voice-2.zip: 9%
+2024-02-06T16:13:33.959Z [Modules] Streaming discord_voice@2 to /home/kaya-sem/.config/discord/0.0.42/modules/pending/discord_voice-2.zip: 10%
+2024-02-06T16:13:33.974Z [Modules] Streaming discord_voice@2 to /home/kaya-sem/.config/discord/0.0.42/modules/pending/discord_voice-2.zip: 11%
+2024-02-06T16:13:34.012Z [Modules] Streaming discord_voice@2 to /home/kaya-sem/.config/discord/0.0.42/modules/pending/discord_voice-2.zip: 12%
+2024-02-06T16:13:34.019Z [Modules] Streaming discord_voice@2 to /home/kaya-sem/.config/discord/0.0.42/modules/pending/discord_voice-2.zip: 13%
+2024-02-06T16:13:34.027Z [Modules] Streaming discord_voice@2 to /home/kaya-sem/.config/discord/0.0.42/modules/pending/discord_voice-2.zip: 14%
+2024-02-06T16:13:34.034Z [Modules] Streaming discord_voice@2 to /home/kaya-sem/.config/discord/0.0.42/modules/pending/discord_voice-2.zip: 15%
+2024-02-06T16:13:34.040Z [Modules] Streaming discord_voice@2 to /home/kaya-sem/.config/discord/0.0.42/modules/pending/discord_voice-2.zip: 16%
+2024-02-06T16:13:34.051Z [Modules] Streaming discord_voice@2 to /home/kaya-sem/.config/discord/0.0.42/modules/pending/discord_voice-2.zip: 17%
+2024-02-06T16:13:34.075Z [Modules] Streaming discord_voice@2 to /home/kaya-sem/.config/discord/0.0.42/modules/pending/discord_voice-2.zip: 18%
+2024-02-06T16:13:34.100Z [Modules] Streaming discord_voice@2 to /home/kaya-sem/.config/discord/0.0.42/modules/pending/discord_voice-2.zip: 19%
+2024-02-06T16:13:34.124Z [Modules] Streaming discord_voice@2 to /home/kaya-sem/.config/discord/0.0.42/modules/pending/discord_voice-2.zip: 20%
+2024-02-06T16:13:34.148Z [Modules] Streaming discord_voice@2 to /home/kaya-sem/.config/discord/0.0.42/modules/pending/discord_voice-2.zip: 21%
+2024-02-06T16:13:34.170Z [Modules] Streaming discord_voice@2 to /home/kaya-sem/.config/discord/0.0.42/modules/pending/discord_voice-2.zip: 22%
+2024-02-06T16:13:34.194Z [Modules] Streaming discord_voice@2 to /home/kaya-sem/.config/discord/0.0.42/modules/pending/discord_voice-2.zip: 23%
+2024-02-06T16:13:34.221Z [Modules] Streaming discord_voice@2 to /home/kaya-sem/.config/discord/0.0.42/modules/pending/discord_voice-2.zip: 24%
+2024-02-06T16:13:34.256Z [Modules] Streaming discord_voice@2 to /home/kaya-sem/.config/discord/0.0.42/modules/pending/discord_voice-2.zip: 25%
+2024-02-06T16:13:34.300Z [Modules] Streaming discord_voice@2 to /home/kaya-sem/.config/discord/0.0.42/modules/pending/discord_voice-2.zip: 26%
+2024-02-06T16:13:34.354Z [Modules] Streaming discord_voice@2 to /home/kaya-sem/.config/discord/0.0.42/modules/pending/discord_voice-2.zip: 27%
+2024-02-06T16:13:34.433Z [Modules] Streaming discord_voice@2 to /home/kaya-sem/.config/discord/0.0.42/modules/pending/discord_voice-2.zip: 28%
+2024-02-06T16:13:34.527Z [Modules] Streaming discord_voice@2 to /home/kaya-sem/.config/discord/0.0.42/modules/pending/discord_voice-2.zip: 29%
+2024-02-06T16:13:34.603Z [Modules] Streaming discord_voice@2 to /home/kaya-sem/.config/discord/0.0.42/modules/pending/discord_voice-2.zip: 30%
+2024-02-06T16:13:34.669Z [Modules] Streaming discord_voice@2 to /home/kaya-sem/.config/discord/0.0.42/modules/pending/discord_voice-2.zip: 31%
+2024-02-06T16:13:34.734Z [Modules] Streaming discord_voice@2 to /home/kaya-sem/.config/discord/0.0.42/modules/pending/discord_voice-2.zip: 32%
+2024-02-06T16:13:34.760Z [Modules] Streaming discord_voice@2 to /home/kaya-sem/.config/discord/0.0.42/modules/pending/discord_voice-2.zip: 33%
+2024-02-06T16:13:34.785Z [Modules] Streaming discord_voice@2 to /home/kaya-sem/.config/discord/0.0.42/modules/pending/discord_voice-2.zip: 34%
+2024-02-06T16:13:34.810Z [Modules] Streaming discord_voice@2 to /home/kaya-sem/.config/discord/0.0.42/modules/pending/discord_voice-2.zip: 35%
+2024-02-06T16:13:34.834Z [Modules] Streaming discord_voice@2 to /home/kaya-sem/.config/discord/0.0.42/modules/pending/discord_voice-2.zip: 36%
+2024-02-06T16:13:34.856Z [Modules] Streaming discord_voice@2 to /home/kaya-sem/.config/discord/0.0.42/modules/pending/discord_voice-2.zip: 37%
+2024-02-06T16:13:34.880Z [Modules] Streaming discord_voice@2 to /home/kaya-sem/.config/discord/0.0.42/modules/pending/discord_voice-2.zip: 38%
+2024-02-06T16:13:34.905Z [Modules] Streaming discord_voice@2 to /home/kaya-sem/.config/discord/0.0.42/modules/pending/discord_voice-2.zip: 39%
+2024-02-06T16:13:34.928Z [Modules] Streaming discord_voice@2 to /home/kaya-sem/.config/discord/0.0.42/modules/pending/discord_voice-2.zip: 40%
+2024-02-06T16:13:34.953Z [Modules] Streaming discord_voice@2 to /home/kaya-sem/.config/discord/0.0.42/modules/pending/discord_voice-2.zip: 41%
+2024-02-06T16:13:34.980Z [Modules] Streaming discord_voice@2 to /home/kaya-sem/.config/discord/0.0.42/modules/pending/discord_voice-2.zip: 42%
+2024-02-06T16:13:35.022Z [Modules] Streaming discord_voice@2 to /home/kaya-sem/.config/discord/0.0.42/modules/pending/discord_voice-2.zip: 43%
+2024-02-06T16:13:35.052Z [Modules] Streaming discord_voice@2 to /home/kaya-sem/.config/discord/0.0.42/modules/pending/discord_voice-2.zip: 44%
+2024-02-06T16:13:35.073Z [Modules] Streaming discord_voice@2 to /home/kaya-sem/.config/discord/0.0.42/modules/pending/discord_voice-2.zip: 45%
+2024-02-06T16:13:35.091Z [Modules] Streaming discord_voice@2 to /home/kaya-sem/.config/discord/0.0.42/modules/pending/discord_voice-2.zip: 46%
+2024-02-06T16:13:35.104Z [Modules] Streaming discord_voice@2 to /home/kaya-sem/.config/discord/0.0.42/modules/pending/discord_voice-2.zip: 47%
+2024-02-06T16:13:35.129Z [Modules] Streaming discord_voice@2 to /home/kaya-sem/.config/discord/0.0.42/modules/pending/discord_voice-2.zip: 48%
+2024-02-06T16:13:35.159Z [Modules] Streaming discord_voice@2 to /home/kaya-sem/.config/discord/0.0.42/modules/pending/discord_voice-2.zip: 49%
+2024-02-06T16:13:35.176Z [Modules] Streaming discord_voice@2 to /home/kaya-sem/.config/discord/0.0.42/modules/pending/discord_voice-2.zip: 50%
+2024-02-06T16:13:35.217Z [Modules] Streaming discord_voice@2 to /home/kaya-sem/.config/discord/0.0.42/modules/pending/discord_voice-2.zip: 51%
+2024-02-06T16:13:35.228Z [Modules] Streaming discord_voice@2 to /home/kaya-sem/.config/discord/0.0.42/modules/pending/discord_voice-2.zip: 52%
+2024-02-06T16:13:35.247Z [Modules] Streaming discord_voice@2 to /home/kaya-sem/.config/discord/0.0.42/modules/pending/discord_voice-2.zip: 53%
+2024-02-06T16:13:35.288Z [Modules] Streaming discord_voice@2 to /home/kaya-sem/.config/discord/0.0.42/modules/pending/discord_voice-2.zip: 54%
+2024-02-06T16:13:35.296Z [Modules] Streaming discord_voice@2 to /home/kaya-sem/.config/discord/0.0.42/modules/pending/discord_voice-2.zip: 55%
+2024-02-06T16:13:35.319Z [Modules] Streaming discord_voice@2 to /home/kaya-sem/.config/discord/0.0.42/modules/pending/discord_voice-2.zip: 56%
+2024-02-06T16:13:35.360Z [Modules] Streaming discord_voice@2 to /home/kaya-sem/.config/discord/0.0.42/modules/pending/discord_voice-2.zip: 57%
+2024-02-06T16:13:35.369Z [Modules] Streaming discord_voice@2 to /home/kaya-sem/.config/discord/0.0.42/modules/pending/discord_voice-2.zip: 58%
+2024-02-06T16:13:35.392Z [Modules] Streaming discord_voice@2 to /home/kaya-sem/.config/discord/0.0.42/modules/pending/discord_voice-2.zip: 59%
+2024-02-06T16:13:35.415Z [Modules] Streaming discord_voice@2 to /home/kaya-sem/.config/discord/0.0.42/modules/pending/discord_voice-2.zip: 60%
+2024-02-06T16:13:35.438Z [Modules] Streaming discord_voice@2 to /home/kaya-sem/.config/discord/0.0.42/modules/pending/discord_voice-2.zip: 61%
+2024-02-06T16:13:35.461Z [Modules] Streaming discord_voice@2 to /home/kaya-sem/.config/discord/0.0.42/modules/pending/discord_voice-2.zip: 62%
+2024-02-06T16:13:35.495Z [Modules] Streaming discord_voice@2 to /home/kaya-sem/.config/discord/0.0.42/modules/pending/discord_voice-2.zip: 63%
+2024-02-06T16:13:35.510Z [Modules] Streaming discord_voice@2 to /home/kaya-sem/.config/discord/0.0.42/modules/pending/discord_voice-2.zip: 64%
+2024-02-06T16:13:35.535Z [Modules] Streaming discord_voice@2 to /home/kaya-sem/.config/discord/0.0.42/modules/pending/discord_voice-2.zip: 65%
+2024-02-06T16:13:35.558Z [Modules] Streaming discord_voice@2 to /home/kaya-sem/.config/discord/0.0.42/modules/pending/discord_voice-2.zip: 66%
+2024-02-06T16:13:35.580Z [Modules] Streaming discord_voice@2 to /home/kaya-sem/.config/discord/0.0.42/modules/pending/discord_voice-2.zip: 67%
+2024-02-06T16:13:35.605Z [Modules] Streaming discord_voice@2 to /home/kaya-sem/.config/discord/0.0.42/modules/pending/discord_voice-2.zip: 68%
+2024-02-06T16:13:35.630Z [Modules] Streaming discord_voice@2 to /home/kaya-sem/.config/discord/0.0.42/modules/pending/discord_voice-2.zip: 69%
+2024-02-06T16:13:35.652Z [Modules] Streaming discord_voice@2 to /home/kaya-sem/.config/discord/0.0.42/modules/pending/discord_voice-2.zip: 70%
+2024-02-06T16:13:35.692Z [Modules] Streaming discord_voice@2 to /home/kaya-sem/.config/discord/0.0.42/modules/pending/discord_voice-2.zip: 71%
+2024-02-06T16:13:35.701Z [Modules] Streaming discord_voice@2 to /home/kaya-sem/.config/discord/0.0.42/modules/pending/discord_voice-2.zip: 72%
+2024-02-06T16:13:35.725Z [Modules] Streaming discord_voice@2 to /home/kaya-sem/.config/discord/0.0.42/modules/pending/discord_voice-2.zip: 73%
+2024-02-06T16:13:35.758Z [Modules] Streaming discord_voice@2 to /home/kaya-sem/.config/discord/0.0.42/modules/pending/discord_voice-2.zip: 74%
+2024-02-06T16:13:35.773Z [Modules] Streaming discord_voice@2 to /home/kaya-sem/.config/discord/0.0.42/modules/pending/discord_voice-2.zip: 75%
+2024-02-06T16:13:35.795Z [Modules] Streaming discord_voice@2 to /home/kaya-sem/.config/discord/0.0.42/modules/pending/discord_voice-2.zip: 76%
+2024-02-06T16:13:35.819Z [Modules] Streaming discord_voice@2 to /home/kaya-sem/.config/discord/0.0.42/modules/pending/discord_voice-2.zip: 77%
+2024-02-06T16:13:35.844Z [Modules] Streaming discord_voice@2 to /home/kaya-sem/.config/discord/0.0.42/modules/pending/discord_voice-2.zip: 78%
+2024-02-06T16:13:35.870Z [Modules] Streaming discord_voice@2 to /home/kaya-sem/.config/discord/0.0.42/modules/pending/discord_voice-2.zip: 79%
+2024-02-06T16:13:35.896Z [Modules] Streaming discord_voice@2 to /home/kaya-sem/.config/discord/0.0.42/modules/pending/discord_voice-2.zip: 80%
+2024-02-06T16:13:35.920Z [Modules] Streaming discord_voice@2 to /home/kaya-sem/.config/discord/0.0.42/modules/pending/discord_voice-2.zip: 81%
+2024-02-06T16:13:35.943Z [Modules] Streaming discord_voice@2 to /home/kaya-sem/.config/discord/0.0.42/modules/pending/discord_voice-2.zip: 82%
+2024-02-06T16:13:35.995Z [Modules] Streaming discord_voice@2 to /home/kaya-sem/.config/discord/0.0.42/modules/pending/discord_voice-2.zip: 83%
+2024-02-06T16:13:36.014Z [Modules] Streaming discord_voice@2 to /home/kaya-sem/.config/discord/0.0.42/modules/pending/discord_voice-2.zip: 84%
+2024-02-06T16:13:36.018Z [Modules] Streaming discord_voice@2 to /home/kaya-sem/.config/discord/0.0.42/modules/pending/discord_voice-2.zip: 85%
+2024-02-06T16:13:36.052Z [Modules] Streaming discord_voice@2 to /home/kaya-sem/.config/discord/0.0.42/modules/pending/discord_voice-2.zip: 86%
+2024-02-06T16:13:36.082Z [Modules] Streaming discord_voice@2 to /home/kaya-sem/.config/discord/0.0.42/modules/pending/discord_voice-2.zip: 87%
+2024-02-06T16:13:36.122Z [Modules] Streaming discord_voice@2 to /home/kaya-sem/.config/discord/0.0.42/modules/pending/discord_voice-2.zip: 88%
+2024-02-06T16:13:36.166Z [Modules] Streaming discord_voice@2 to /home/kaya-sem/.config/discord/0.0.42/modules/pending/discord_voice-2.zip: 89%
+2024-02-06T16:13:36.189Z [Modules] Streaming discord_voice@2 to /home/kaya-sem/.config/discord/0.0.42/modules/pending/discord_voice-2.zip: 90%
+2024-02-06T16:13:36.213Z [Modules] Streaming discord_voice@2 to /home/kaya-sem/.config/discord/0.0.42/modules/pending/discord_voice-2.zip: 91%
+2024-02-06T16:13:36.238Z [Modules] Streaming discord_voice@2 to /home/kaya-sem/.config/discord/0.0.42/modules/pending/discord_voice-2.zip: 92%
+2024-02-06T16:13:36.288Z [Modules] Streaming discord_voice@2 to /home/kaya-sem/.config/discord/0.0.42/modules/pending/discord_voice-2.zip: 93%
+2024-02-06T16:13:36.303Z [Modules] Streaming discord_voice@2 to /home/kaya-sem/.config/discord/0.0.42/modules/pending/discord_voice-2.zip: 94%
+2024-02-06T16:13:36.343Z [Modules] Streaming discord_voice@2 to /home/kaya-sem/.config/discord/0.0.42/modules/pending/discord_voice-2.zip: 95%
+2024-02-06T16:13:36.365Z [Modules] Streaming discord_voice@2 to /home/kaya-sem/.config/discord/0.0.42/modules/pending/discord_voice-2.zip: 96%
+2024-02-06T16:13:36.368Z [Modules] Streaming discord_voice@2 to /home/kaya-sem/.config/discord/0.0.42/modules/pending/discord_voice-2.zip: 97%
+2024-02-06T16:13:36.393Z [Modules] Streaming discord_voice@2 to /home/kaya-sem/.config/discord/0.0.42/modules/pending/discord_voice-2.zip: 98%
+2024-02-06T16:13:36.417Z [Modules] Streaming discord_voice@2 to /home/kaya-sem/.config/discord/0.0.42/modules/pending/discord_voice-2.zip: 99%
+2024-02-06T16:13:36.445Z [Modules] Streaming discord_voice@2 to /home/kaya-sem/.config/discord/0.0.42/modules/pending/discord_voice-2.zip: 100%
+2024-02-06T16:13:36.448Z [Modules] Finished module downloads. [success: 1] [failure: 0]
+2024-02-06T16:13:36.449Z [Modules] Installing updates...
+2024-02-06T16:13:36.449Z [Modules] Installing discord_voice@2 from /home/kaya-sem/.config/discord/0.0.42/modules/pending/discord_voice-2.zip
+2024-02-06T16:13:37.341Z [Modules] Finished module installations. [success: 1] [failure: 0]
+2024-02-06T16:13:37.341Z [Modules] Checking for host updates.
+2024-02-06T16:13:37.577Z [Modules] Host is up to date.
+2024-02-06T16:13:37.577Z [Modules] Checking for module updates at https://discord.com/api/modules/stable/versions.json
+2024-02-06T16:13:37.594Z [Modules] No module updates available.
+2024-02-06T16:13:41.202Z [Modules] Checking for host updates.
+2024-02-06T16:13:41.355Z [Modules] Host is up to date.
+2024-02-06T16:13:41.355Z [Modules] Checking for module updates at https://discord.com/api/modules/stable/versions.json
+2024-02-06T16:13:41.359Z [Modules] No module updates available.
+2024-02-08T19:47:21.100Z [Modules] Modules initializing
+2024-02-08T19:47:21.101Z [Modules] Distribution: remote
+2024-02-08T19:47:21.101Z [Modules] Host updates: enabled
+2024-02-08T19:47:21.102Z [Modules] Module updates: enabled
+2024-02-08T19:47:21.102Z [Modules] Module install path: /home/kaya-sem/.config/discord/0.0.42/modules
+2024-02-08T19:47:21.102Z [Modules] Module installed file path: /home/kaya-sem/.config/discord/0.0.42/modules/installed.json
+2024-02-08T19:47:21.103Z [Modules] Module download path: /home/kaya-sem/.config/discord/0.0.42/modules/pending
+2024-02-08T19:47:21.724Z [Modules] No updates to install
+2024-02-08T19:47:21.725Z [Modules] Checking for host updates.
+2024-02-08T19:47:22.028Z [Modules] Host is up to date.
+2024-02-08T19:47:22.028Z [Modules] Checking for module updates at https://discord.com/api/modules/stable/versions.json
+2024-02-08T19:47:22.077Z [Modules] No module updates available.
+2024-02-08T19:47:26.985Z [Modules] Checking for host updates.
+2024-02-08T19:47:27.130Z [Modules] Host is up to date.
+2024-02-08T19:47:27.130Z [Modules] Checking for module updates at https://discord.com/api/modules/stable/versions.json
+2024-02-08T19:47:27.135Z [Modules] No module updates available.
+2024-02-09T13:01:14.988Z [Modules] Modules initializing
+2024-02-09T13:01:14.989Z [Modules] Distribution: remote
+2024-02-09T13:01:14.989Z [Modules] Host updates: enabled
+2024-02-09T13:01:14.989Z [Modules] Module updates: enabled
+2024-02-09T13:01:14.989Z [Modules] Module install path: /home/kaya-sem/.config/discord/0.0.42/modules
+2024-02-09T13:01:14.990Z [Modules] Module installed file path: /home/kaya-sem/.config/discord/0.0.42/modules/installed.json
+2024-02-09T13:01:14.990Z [Modules] Module download path: /home/kaya-sem/.config/discord/0.0.42/modules/pending
+2024-02-09T13:01:15.411Z [Modules] No updates to install
+2024-02-09T13:01:15.411Z [Modules] Checking for host updates.
+2024-02-09T13:01:15.662Z [Modules] Host is up to date.
+2024-02-09T13:01:15.662Z [Modules] Checking for module updates at https://discord.com/api/modules/stable/versions.json
+2024-02-09T13:01:15.710Z [Modules] No module updates available.
+2024-02-09T13:01:19.176Z [Modules] Checking for host updates.
+2024-02-09T13:01:19.373Z [Modules] Host is up to date.
+2024-02-09T13:01:19.373Z [Modules] Checking for module updates at https://discord.com/api/modules/stable/versions.json
+2024-02-09T13:01:19.376Z [Modules] No module updates available.
+2024-02-09T18:12:20.258Z [Modules] Modules initializing
+2024-02-09T18:12:20.258Z [Modules] Distribution: remote
+2024-02-09T18:12:20.259Z [Modules] Host updates: enabled
+2024-02-09T18:12:20.259Z [Modules] Module updates: enabled
+2024-02-09T18:12:20.260Z [Modules] Module install path: /home/kaya-sem/.config/discord/0.0.42/modules
+2024-02-09T18:12:20.261Z [Modules] Module installed file path: /home/kaya-sem/.config/discord/0.0.42/modules/installed.json
+2024-02-09T18:12:20.261Z [Modules] Module download path: /home/kaya-sem/.config/discord/0.0.42/modules/pending
+2024-02-09T18:12:20.911Z [Modules] No updates to install
+2024-02-09T18:12:20.912Z [Modules] Checking for host updates.
+2024-02-09T18:12:21.247Z [Modules] Host is up to date.
+2024-02-09T18:12:21.247Z [Modules] Checking for module updates at https://discord.com/api/modules/stable/versions.json
+2024-02-09T18:12:21.294Z [Modules] No module updates available.
+2024-02-09T18:12:27.896Z [Modules] Checking for host updates.
+2024-02-09T18:12:28.106Z [Modules] Host is up to date.
+2024-02-09T18:12:28.107Z [Modules] Checking for module updates at https://discord.com/api/modules/stable/versions.json
+2024-02-09T18:12:28.113Z [Modules] No module updates available.
+2024-02-09T20:16:03.035Z [Modules] Modules initializing
+2024-02-09T20:16:03.036Z [Modules] Distribution: remote
+2024-02-09T20:16:03.036Z [Modules] Host updates: enabled
+2024-02-09T20:16:03.036Z [Modules] Module updates: enabled
+2024-02-09T20:16:03.037Z [Modules] Module install path: /home/kaya-sem/.config/discord/0.0.42/modules
+2024-02-09T20:16:03.037Z [Modules] Module installed file path: /home/kaya-sem/.config/discord/0.0.42/modules/installed.json
+2024-02-09T20:16:03.037Z [Modules] Module download path: /home/kaya-sem/.config/discord/0.0.42/modules/pending
+2024-02-09T20:16:03.436Z [Modules] No updates to install
+2024-02-09T20:16:03.437Z [Modules] Checking for host updates.
+2024-02-09T20:16:03.773Z [Modules] Host is up to date.
+2024-02-09T20:16:03.775Z [Modules] Checking for module updates at https://discord.com/api/modules/stable/versions.json
+2024-02-09T20:16:03.845Z [Modules] No module updates available.
+2024-02-09T20:16:07.096Z [Modules] Checking for host updates.
+2024-02-09T20:16:07.290Z [Modules] Host is up to date.
+2024-02-09T20:16:07.290Z [Modules] Checking for module updates at https://discord.com/api/modules/stable/versions.json
+2024-02-09T20:16:07.294Z [Modules] No module updates available.
+2024-02-09T20:56:51.608Z [Modules] Modules initializing
+2024-02-09T20:56:51.608Z [Modules] Distribution: remote
+2024-02-09T20:56:51.609Z [Modules] Host updates: enabled
+2024-02-09T20:56:51.609Z [Modules] Module updates: enabled
+2024-02-09T20:56:51.609Z [Modules] Module install path: /home/kaya-sem/.config/discord/0.0.42/modules
+2024-02-09T20:56:51.609Z [Modules] Module installed file path: /home/kaya-sem/.config/discord/0.0.42/modules/installed.json
+2024-02-09T20:56:51.610Z [Modules] Module download path: /home/kaya-sem/.config/discord/0.0.42/modules/pending
+2024-02-09T20:56:52.068Z [Modules] No updates to install
+2024-02-09T20:56:52.068Z [Modules] Checking for host updates.
+2024-02-09T20:56:52.314Z [Modules] Host is up to date.
+2024-02-09T20:56:52.315Z [Modules] Checking for module updates at https://discord.com/api/modules/stable/versions.json
+2024-02-09T20:56:52.369Z [Modules] No module updates available.
+2024-02-09T20:56:55.609Z [Modules] Checking for host updates.
+2024-02-09T20:56:55.783Z [Modules] Host is up to date.
+2024-02-09T20:56:55.783Z [Modules] Checking for module updates at https://discord.com/api/modules/stable/versions.json
+2024-02-09T20:56:55.787Z [Modules] No module updates available.
+2024-02-10T11:38:46.632Z [Modules] Modules initializing
+2024-02-10T11:38:46.632Z [Modules] Distribution: remote
+2024-02-10T11:38:46.633Z [Modules] Host updates: enabled
+2024-02-10T11:38:46.633Z [Modules] Module updates: enabled
+2024-02-10T11:38:46.635Z [Modules] Module install path: /home/kaya-sem/.config/discord/0.0.42/modules
+2024-02-10T11:38:46.635Z [Modules] Module installed file path: /home/kaya-sem/.config/discord/0.0.42/modules/installed.json
+2024-02-10T11:38:46.635Z [Modules] Module download path: /home/kaya-sem/.config/discord/0.0.42/modules/pending
+2024-02-10T11:38:52.529Z [Modules] No updates to install
+2024-02-10T11:38:52.530Z [Modules] Checking for host updates.
+2024-02-10T11:38:52.790Z [Modules] Host is up to date.
+2024-02-10T11:38:52.791Z [Modules] Checking for module updates at https://discord.com/api/modules/stable/versions.json
+2024-02-10T11:38:52.855Z [Modules] No module updates available.
+2024-02-10T11:38:57.600Z [Modules] Checking for host updates.
+2024-02-10T11:38:57.868Z [Modules] Host is up to date.
+2024-02-10T11:38:57.869Z [Modules] Checking for module updates at https://discord.com/api/modules/stable/versions.json
+2024-02-10T11:38:57.875Z [Modules] No module updates available.
+2024-02-10T12:20:19.092Z [Modules] Modules initializing
+2024-02-10T12:20:19.093Z [Modules] Distribution: remote
+2024-02-10T12:20:19.093Z [Modules] Host updates: enabled
+2024-02-10T12:20:19.093Z [Modules] Module updates: enabled
+2024-02-10T12:20:19.094Z [Modules] Module install path: /home/kaya-sem/.config/discord/0.0.42/modules
+2024-02-10T12:20:19.094Z [Modules] Module installed file path: /home/kaya-sem/.config/discord/0.0.42/modules/installed.json
+2024-02-10T12:20:19.094Z [Modules] Module download path: /home/kaya-sem/.config/discord/0.0.42/modules/pending
+2024-02-10T12:20:25.060Z [Modules] No updates to install
+2024-02-10T12:20:25.061Z [Modules] Checking for host updates.
+2024-02-10T12:20:25.320Z [Modules] Host is up to date.
+2024-02-10T12:20:25.321Z [Modules] Checking for module updates at https://discord.com/api/modules/stable/versions.json
+2024-02-10T12:20:25.358Z [Modules] No module updates available.
+2024-02-10T12:20:30.304Z [Modules] Checking for host updates.
+2024-02-10T12:20:30.541Z [Modules] Host is up to date.
+2024-02-10T12:20:30.541Z [Modules] Checking for module updates at https://discord.com/api/modules/stable/versions.json
+2024-02-10T12:20:30.547Z [Modules] No module updates available.

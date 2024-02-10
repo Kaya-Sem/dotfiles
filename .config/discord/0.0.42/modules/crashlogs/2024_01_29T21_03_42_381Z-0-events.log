@@ -570,3 +570,139 @@
 2024-02-05T15:04:07.274Z 12: before-quit
 2024-02-05T15:04:07.277Z 13: window.close win2
 2024-02-05T15:04:07.339Z 14: webContents.destroyed web2
+2024-02-06T16:13:32.403Z 0: 
+
+----------------------------------------------
+2024-02-06T16:13:32.441Z 1: Discord starting: {"releaseChannel":"stable","version":"0.0.42"}, modulepath: /home/kaya-sem/.config/discord/0.0.42/modules
+2024-02-06T16:13:32.451Z 2: ✅ webContents.created web1 ""
+2024-02-06T16:13:32.458Z 3: ✅ window.created win1 "discord"
+2024-02-06T16:13:33.017Z 4: ✅ webContents.did-finish-load web1
+2024-02-06T16:13:37.756Z 5: ✅ webContents.created web2 ""
+2024-02-06T16:13:37.762Z 6: ✅ window.created win2 "Discord"
+2024-02-06T16:13:41.515Z 7: ✅ webContents.did-finish-load web2
+2024-02-06T16:13:41.615Z 8: window.close win1
+2024-02-06T16:13:41.681Z 9: webContents.destroyed web1
+2024-02-06T16:13:41.697Z 10: window.closed win1
+2024-02-06T16:14:45.235Z 11: window.close win2
+2024-02-06T16:14:45.238Z 12: before-quit
+2024-02-06T16:14:45.240Z 13: window.close win2
+2024-02-06T16:14:45.263Z 14: webContents.destroyed web2
+2024-02-08T19:47:21.157Z 0: 
+
+----------------------------------------------
+2024-02-08T19:47:21.179Z 1: Discord starting: {"releaseChannel":"stable","version":"0.0.42"}, modulepath: /home/kaya-sem/.config/discord/0.0.42/modules
+2024-02-08T19:47:21.208Z 2: ✅ webContents.created web1 ""
+2024-02-08T19:47:21.217Z 3: ✅ window.created win1 "discord"
+2024-02-08T19:47:21.978Z 4: ✅ webContents.did-finish-load web1
+2024-02-08T19:47:22.308Z 5: ✅ webContents.created web2 ""
+2024-02-08T19:47:22.314Z 6: ✅ window.created win2 "Discord"
+2024-02-08T19:47:26.197Z 7: ✅ webContents.did-finish-load web2
+2024-02-08T19:47:26.296Z 8: window.close win1
+2024-02-08T19:47:26.313Z 9: webContents.destroyed web1
+2024-02-08T19:47:26.318Z 10: window.closed win1
+2024-02-08T19:56:36.583Z 11: window.close win2
+2024-02-08T19:56:36.587Z 12: before-quit
+2024-02-08T19:56:36.589Z 13: window.close win2
+2024-02-08T19:56:36.670Z 14: webContents.destroyed web2
+2024-02-09T13:01:15.022Z 0: 
+
+----------------------------------------------
+2024-02-09T13:01:15.036Z 1: Discord starting: {"releaseChannel":"stable","version":"0.0.42"}, modulepath: /home/kaya-sem/.config/discord/0.0.42/modules
+2024-02-09T13:01:15.059Z 2: ✅ webContents.created web1 ""
+2024-02-09T13:01:15.064Z 3: ✅ window.created win1 "discord"
+2024-02-09T13:01:15.612Z 4: ✅ webContents.did-finish-load web1
+2024-02-09T13:01:15.887Z 5: ✅ webContents.created web2 ""
+2024-02-09T13:01:15.890Z 6: ✅ window.created win2 "Discord"
+2024-02-09T13:01:19.517Z 7: ✅ webContents.did-finish-load web2
+2024-02-09T13:01:19.617Z 8: window.close win1
+2024-02-09T13:01:19.626Z 9: webContents.destroyed web1
+2024-02-09T13:01:19.635Z 10: window.closed win1
+2024-02-09T13:25:17.071Z 11: window.close win2
+2024-02-09T13:25:17.076Z 12: before-quit
+2024-02-09T13:25:17.079Z 13: window.close win2
+2024-02-09T13:25:17.141Z 14: webContents.destroyed web2
+2024-02-09T18:12:20.311Z 0: 
+
+----------------------------------------------
+2024-02-09T18:12:20.336Z 1: Discord starting: {"releaseChannel":"stable","version":"0.0.42"}, modulepath: /home/kaya-sem/.config/discord/0.0.42/modules
+2024-02-09T18:12:20.380Z 2: ✅ webContents.created web1 ""
+2024-02-09T18:12:20.398Z 3: ✅ window.created win1 "discord"
+2024-02-09T18:12:21.577Z 4: ✅ webContents.created web2 ""
+2024-02-09T18:12:21.586Z 5: ✅ window.created win2 "Discord"
+2024-02-09T18:12:21.634Z 6: ✅ webContents.did-finish-load web1
+2024-02-09T18:12:28.122Z 7: ✅ webContents.did-finish-load web2
+2024-02-09T18:12:28.223Z 8: window.close win1
+2024-02-09T18:12:28.268Z 9: webContents.destroyed web1
+2024-02-09T18:12:28.278Z 10: window.closed win1
+2024-02-09T18:18:44.426Z 11: window.close win2
+2024-02-09T18:18:44.430Z 12: before-quit
+2024-02-09T18:18:44.432Z 13: window.close win2
+2024-02-09T18:18:44.586Z 14: webContents.destroyed web2
+2024-02-09T20:16:03.066Z 0: 
+
+----------------------------------------------
+2024-02-09T20:16:03.089Z 1: Discord starting: {"releaseChannel":"stable","version":"0.0.42"}, modulepath: /home/kaya-sem/.config/discord/0.0.42/modules
+2024-02-09T20:16:03.097Z 2: ✅ webContents.created web1 ""
+2024-02-09T20:16:03.102Z 3: ✅ window.created win1 "discord"
+2024-02-09T20:16:03.650Z 4: ✅ webContents.did-finish-load web1
+2024-02-09T20:16:04.000Z 5: ✅ webContents.created web2 ""
+2024-02-09T20:16:04.015Z 6: ✅ window.created win2 "Discord"
+2024-02-09T20:16:07.421Z 7: ✅ webContents.did-finish-load web2
+2024-02-09T20:16:07.522Z 8: window.close win1
+2024-02-09T20:16:07.541Z 9: webContents.destroyed web1
+2024-02-09T20:16:07.547Z 10: window.closed win1
+2024-02-09T20:27:57.288Z 11: window.close win2
+2024-02-09T20:27:57.296Z 12: before-quit
+2024-02-09T20:27:57.300Z 13: window.close win2
+2024-02-09T20:27:57.399Z 14: webContents.destroyed web2
+2024-02-09T20:56:51.630Z 0: 
+
+----------------------------------------------
+2024-02-09T20:56:51.654Z 1: Discord starting: {"releaseChannel":"stable","version":"0.0.42"}, modulepath: /home/kaya-sem/.config/discord/0.0.42/modules
+2024-02-09T20:56:51.661Z 2: ✅ webContents.created web1 ""
+2024-02-09T20:56:51.665Z 3: ✅ window.created win1 "discord"
+2024-02-09T20:56:52.301Z 4: ✅ webContents.did-finish-load web1
+2024-02-09T20:56:52.530Z 5: ✅ webContents.created web2 ""
+2024-02-09T20:56:52.535Z 6: ✅ window.created win2 "Discord"
+2024-02-09T20:56:55.901Z 7: ✅ webContents.did-finish-load web2
+2024-02-09T20:56:56.003Z 8: window.close win1
+2024-02-09T20:56:56.021Z 9: webContents.destroyed web1
+2024-02-09T20:56:56.027Z 10: window.closed win1
+2024-02-09T20:57:15.838Z 11: window.close win2
+2024-02-09T20:57:15.845Z 12: before-quit
+2024-02-09T20:57:15.847Z 13: window.close win2
+2024-02-09T20:57:15.913Z 14: webContents.destroyed web2
+2024-02-10T11:38:46.677Z 0: 
+
+----------------------------------------------
+2024-02-10T11:38:46.696Z 1: Discord starting: {"releaseChannel":"stable","version":"0.0.42"}, modulepath: /home/kaya-sem/.config/discord/0.0.42/modules
+2024-02-10T11:38:46.723Z 2: ✅ webContents.created web1 ""
+2024-02-10T11:38:46.729Z 3: ✅ window.created win1 "discord"
+2024-02-10T11:38:52.805Z 4: ✅ webContents.did-finish-load web1
+2024-02-10T11:38:53.071Z 5: ✅ webContents.created web2 ""
+2024-02-10T11:38:53.083Z 6: ✅ window.created win2 "Discord"
+2024-02-10T11:38:58.045Z 7: ✅ webContents.did-finish-load web2
+2024-02-10T11:38:58.146Z 8: window.close win1
+2024-02-10T11:38:58.165Z 9: webContents.destroyed web1
+2024-02-10T11:38:58.170Z 10: window.closed win1
+2024-02-10T11:42:54.661Z 11: window.close win2
+2024-02-10T11:42:54.668Z 12: before-quit
+2024-02-10T11:42:54.674Z 13: window.close win2
+2024-02-10T11:42:54.771Z 14: webContents.destroyed web2
+2024-02-10T12:20:19.137Z 0: 
+
+----------------------------------------------
+2024-02-10T12:20:19.174Z 1: Discord starting: {"releaseChannel":"stable","version":"0.0.42"}, modulepath: /home/kaya-sem/.config/discord/0.0.42/modules
+2024-02-10T12:20:19.185Z 2: ✅ webContents.created web1 ""
+2024-02-10T12:20:19.190Z 3: ✅ window.created win1 "discord"
+2024-02-10T12:20:25.338Z 4: ✅ webContents.did-finish-load web1
+2024-02-10T12:20:25.612Z 5: ✅ webContents.created web2 ""
+2024-02-10T12:20:25.631Z 6: ✅ window.created win2 "Discord"
+2024-02-10T12:20:30.812Z 7: ✅ webContents.did-finish-load web2
+2024-02-10T12:20:30.912Z 8: window.close win1
+2024-02-10T12:20:30.951Z 9: webContents.destroyed web1
+2024-02-10T12:20:30.955Z 10: window.closed win1
+2024-02-10T12:21:52.178Z 11: window.close win2
+2024-02-10T12:21:52.187Z 12: before-quit
+2024-02-10T12:21:52.191Z 13: window.close win2
+2024-02-10T12:21:52.291Z 14: webContents.destroyed web2

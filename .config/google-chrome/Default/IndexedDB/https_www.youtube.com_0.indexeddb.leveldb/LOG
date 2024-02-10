@@ -1,2 +1,3 @@
-2024/02/05-16:04:28.672 22c2 Creating DB /home/kaya-sem/.config/google-chrome/Default/IndexedDB/https_www.youtube.com_0.indexeddb.leveldb since it was missing.
-2024/02/05-16:04:28.828 22c2 Reusing MANIFEST /home/kaya-sem/.config/google-chrome/Default/IndexedDB/https_www.youtube.com_0.indexeddb.leveldb/MANIFEST-000001
+2024/02/10-13:06:37.617 10ca Reusing MANIFEST /home/kaya-sem/.config/google-chrome/Default/IndexedDB/https_www.youtube.com_0.indexeddb.leveldb/MANIFEST-000001
+2024/02/10-13:06:37.618 10ca Recovering log #3
+2024/02/10-13:06:37.624 10ca Reusing old log /home/kaya-sem/.config/google-chrome/Default/IndexedDB/https_www.youtube.com_0.indexeddb.leveldb/000003.log 

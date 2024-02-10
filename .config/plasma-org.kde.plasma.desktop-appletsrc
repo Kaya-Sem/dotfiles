@@ -160,7 +160,7 @@ ToolBoxButtonX=444
 Color=0,0,0
 
 [Containments][45][Wallpaper][org.kde.image][General]
-Image=/home/kaya-sem/Downloads/background.jpg
+Image=/home/kaya-sem/20-29 Files/background.jpg
 SlidePaths=/usr/share/wallpapers/
 
 [Containments][8]
@@ -209,9 +209,10 @@ immutability=1
 plugin=org.kde.plasma.volume
 
 [Containments][8][Applets][16][Configuration]
-PreloadWeight=90
+PreloadWeight=100
 
 [Containments][8][Applets][16][Configuration][General]
+currentTab=streams
 migrated=true
 
 [Containments][8][Applets][17]
@@ -276,5 +277,5 @@ knownItems=org.kde.plasma.bluetooth,org.kde.plasma.battery,org.kde.plasma.clipbo
 shownItems=org.kde.plasma.keyboardlayout,flameshot
 
 [ScreenMapping]
-itemsOnDisabledScreens=0,d011a43a-20dc-4a4c-8d00-038382dc3e19,8,desktop:/Downloads,desktop:/Music,desktop:/Pictures,desktop:/Videos,desktop:/Desktop,desktop:/dotfiles,desktop:/Documents,desktop:/scripts
-screenMapping=
+itemsOnDisabledScreens=0,d011a43a-20dc-4a4c-8d00-038382dc3e19,8,desktop:/scripts,desktop:/Downloads,desktop:/Desktop,desktop:/Documents,desktop:/Pictures,desktop:/Videos,desktop:/Music,desktop:/dotfiles
+screenMapping=desktop:/Music,1,d011a43a-20dc-4a4c-8d00-038382dc3e19,desktop:/Pictures,1,d011a43a-20dc-4a4c-8d00-038382dc3e19,desktop:/10-19 Personal documents,1,d011a43a-20dc-4a4c-8d00-038382dc3e19,desktop:/dotfiles,1,d011a43a-20dc-4a4c-8d00-038382dc3e19,desktop:/scripts,1,d011a43a-20dc-4a4c-8d00-038382dc3e19,desktop:/Desktop,1,d011a43a-20dc-4a4c-8d00-038382dc3e19,desktop:/20-29 Files,1,d011a43a-20dc-4a4c-8d00-038382dc3e19,desktop:/Downloads,1,d011a43a-20dc-4a4c-8d00-038382dc3e19,desktop:/Videos,1,d011a43a-20dc-4a4c-8d00-038382dc3e19,desktop:/00-09 Obsidian,1,d011a43a-20dc-4a4c-8d00-038382dc3e19,desktop:/Documents,1,d011a43a-20dc-4a4c-8d00-038382dc3e19

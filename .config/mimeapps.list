@@ -18,6 +18,7 @@ x-scheme-handler/chrome=floorp.desktop;
 x-scheme-handler/geo=qwant-maps-geo-handler.desktop;
 x-scheme-handler/http=min.desktop;firefox.desktop;floorp.desktop;
 x-scheme-handler/https=min.desktop;firefox.desktop;floorp.desktop;
+x-scheme-handler/bitwarden=bitwarden.desktop;
 
 [Default Applications]
 application/pdf=org.pwmt.zathura.desktop;
@@ -39,3 +40,4 @@ x-scheme-handler/chrome=floorp.desktop
 x-scheme-handler/geo=qwant-maps-geo-handler.desktop;
 x-scheme-handler/http=min.desktop;
 x-scheme-handler/https=min.desktop;
+x-scheme-handler/bitwarden=bitwarden.desktop

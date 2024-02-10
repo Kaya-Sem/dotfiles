@@ -1,0 +1,11 @@
+<application>
+  <component name="aeInstalledPlugins">
+    <option name="myPlugins">
+      <map>
+        <entry key="Dart" value="1707477333655" />
+        <entry key="io.flutter" value="1707477338958" />
+        <entry key="org.jetbrains.android" value="1707477333044" />
+      </map>
+    </option>
+  </component>
+</application>

@@ -1,0 +1,38 @@
+2024-02-09 21:09:33.289 [info] Started local extension host with pid 17150.
+2024-02-09 21:09:33.391 [info] Started initializing default profile extensions in extensions installation folder. file:///home/kaya-sem/.vscode/extensions
+2024-02-09 21:09:33.771 [info] Completed initializing default profile extensions in extensions installation folder. file:///home/kaya-sem/.vscode/extensions
+2024-02-09 21:09:36.524 [info] [perf] Render performance baseline is 34ms
+2024-02-09 21:09:48.247 [error] Error while searching for themes: Canceled
+2024-02-09 21:10:03.861 [error] Cancelled: Canceled
+    at re.B (vscode-file://vscode-app/opt/visual-studio-code/resources/app/out/vs/workbench/workbench.desktop.main.js:782:32466)
+    at async re.z (vscode-file://vscode-app/opt/visual-studio-code/resources/app/out/vs/workbench/workbench.desktop.main.js:782:29361)
+    at async ne (vscode-file://vscode-app/opt/visual-studio-code/resources/app/out/vs/workbench/workbench.desktop.main.js:782:28369)
+    at async re.query (vscode-file://vscode-app/opt/visual-studio-code/resources/app/out/vs/workbench/workbench.desktop.main.js:782:28590)
+    at async oe.queryGallery (vscode-file://vscode-app/opt/visual-studio-code/resources/app/out/vs/workbench/workbench.desktop.main.js:2741:11958)
+    at async te.Ac (vscode-file://vscode-app/opt/visual-studio-code/resources/app/out/vs/workbench/workbench.desktop.main.js:2677:22427)
+    at async te.lc (vscode-file://vscode-app/opt/visual-studio-code/resources/app/out/vs/workbench/workbench.desktop.main.js:2677:14478)
+    at async vscode-file://vscode-app/opt/visual-studio-code/resources/app/out/vs/workbench/workbench.desktop.main.js:2677:12777
+2024-02-09 21:10:03.862 [error] Cancelled: Canceled
+    at re.B (vscode-file://vscode-app/opt/visual-studio-code/resources/app/out/vs/workbench/workbench.desktop.main.js:782:32466)
+    at async re.z (vscode-file://vscode-app/opt/visual-studio-code/resources/app/out/vs/workbench/workbench.desktop.main.js:782:29361)
+    at async re.getExtensions (vscode-file://vscode-app/opt/visual-studio-code/resources/app/out/vs/workbench/workbench.desktop.main.js:782:26345)
+    at async oe.getExtensions (vscode-file://vscode-app/opt/visual-studio-code/resources/app/out/vs/workbench/workbench.desktop.main.js:2741:12374)
+    at async ge.Ec (vscode-file://vscode-app/opt/visual-studio-code/resources/app/out/vs/workbench/workbench.desktop.main.js:2677:24452)
+    at async ge.Nc (vscode-file://vscode-app/opt/visual-studio-code/resources/app/out/vs/workbench/workbench.desktop.main.js:2677:27116)
+    at async ge.lc (vscode-file://vscode-app/opt/visual-studio-code/resources/app/out/vs/workbench/workbench.desktop.main.js:2677:14478)
+    at async vscode-file://vscode-app/opt/visual-studio-code/resources/app/out/vs/workbench/workbench.desktop.main.js:2677:12777
+2024-02-09 21:11:55.382 [info] Started local extension host with pid 17727.
+2024-02-09 21:11:58.625 [info] [perf] Render performance baseline is 44ms
+2024-02-09 21:12:02.519 [error] Cannot read properties of undefined (reading 'accessToken'): TypeError: Cannot read properties of undefined (reading 'accessToken')
+    at m.f (vscode-file://vscode-app/opt/visual-studio-code/resources/app/out/vs/workbench/workbench.desktop.main.js:1710:14640)
+    at a.value (vscode-file://vscode-app/opt/visual-studio-code/resources/app/out/vs/workbench/workbench.desktop.main.js:1710:14461)
+2024-02-09 21:13:12.398 [error] Cancelled: Canceled
+    at re.B (vscode-file://vscode-app/opt/visual-studio-code/resources/app/out/vs/workbench/workbench.desktop.main.js:782:32466)
+    at async re.z (vscode-file://vscode-app/opt/visual-studio-code/resources/app/out/vs/workbench/workbench.desktop.main.js:782:29361)
+    at async re.getExtensions (vscode-file://vscode-app/opt/visual-studio-code/resources/app/out/vs/workbench/workbench.desktop.main.js:782:26345)
+    at async oe.getExtensions (vscode-file://vscode-app/opt/visual-studio-code/resources/app/out/vs/workbench/workbench.desktop.main.js:2741:12374)
+    at async ge.Ec (vscode-file://vscode-app/opt/visual-studio-code/resources/app/out/vs/workbench/workbench.desktop.main.js:2677:24452)
+    at async ge.Nc (vscode-file://vscode-app/opt/visual-studio-code/resources/app/out/vs/workbench/workbench.desktop.main.js:2677:27116)
+    at async ge.lc (vscode-file://vscode-app/opt/visual-studio-code/resources/app/out/vs/workbench/workbench.desktop.main.js:2677:14478)
+    at async vscode-file://vscode-app/opt/visual-studio-code/resources/app/out/vs/workbench/workbench.desktop.main.js:2677:12777
+2024-02-09 21:14:50.064 [error] ENOENT: no such file or directory, open '/home/kaya-sem/.config/Code/User/globalStorage/vscodevim.vim/.registers': Error: ENOENT: no such file or directory, open '/home/kaya-sem/.config/Code/User/globalStorage/vscodevim.vim/.registers'

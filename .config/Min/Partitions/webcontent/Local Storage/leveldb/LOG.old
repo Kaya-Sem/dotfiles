@@ -1,3 +1,6 @@
-2024/02/04-17:57:22.350 45a9 Reusing MANIFEST /home/kaya-sem/.config/Min/Partitions/webcontent/Local Storage/leveldb/MANIFEST-000001
-2024/02/04-17:57:22.351 45a9 Recovering log #7
-2024/02/04-17:57:22.352 45a9 Reusing old log /home/kaya-sem/.config/Min/Partitions/webcontent/Local Storage/leveldb/000007.log 
+2024/02/10-12:45:01.388 163e Reusing MANIFEST /home/kaya-sem/.config/Min/Partitions/webcontent/Local Storage/leveldb/MANIFEST-000001
+2024/02/10-12:45:01.389 163e Recovering log #7
+2024/02/10-12:45:01.391 163e Reusing old log /home/kaya-sem/.config/Min/Partitions/webcontent/Local Storage/leveldb/000007.log 
+2024/02/10-12:52:11.717 163f Level-0 table #11: started
+2024/02/10-12:52:11.731 163f Level-0 table #11: 206216 bytes OK
+2024/02/10-12:52:11.734 163f Delete type=0 #7

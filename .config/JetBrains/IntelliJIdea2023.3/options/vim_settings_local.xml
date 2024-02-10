@@ -1,11 +1,14 @@
 <application>
   <component name="VimHistorySettings">
     <history>
+      <history-search />
       <history-cmd>
         <entry encoding="base64">JXkr</entry>
-        <entry encoding="base64">dw==</entry>
         <entry encoding="base64">cQ==</entry>
+        <entry encoding="base64">dw==</entry>
       </history-cmd>
+      <history-expr />
+      <history-input />
     </history>
   </component>
   <component name="VimJumpsSettings">
@@ -17,10 +20,37 @@
       <jump line="0" column="0" filename="$USER_HOME$/Documents/untitled/build.gradle.kts" />
       <jump line="0" column="0" filename="$USER_HOME$/Documents/untitled/src/main/java/org/example/Main.java" />
     </project>
+    <project id="$USER_HOME$/Documents/rooftopper">
+      <jump line="0" column="0" filename="$USER_HOME$/Documents/rooftopper/README.md" />
+      <jump line="9" column="0" filename="$USER_HOME$/Documents/rooftopper/README.md" />
+      <jump line="0" column="0" filename="$USER_HOME$/Documents/rooftopper/lib/main.dart" />
+      <jump line="0" column="0" filename="$USER_HOME$/Documents/rooftopper/.github/workflows/dart.yml" />
+      <jump line="27" column="16" filename="$USER_HOME$/Documents/rooftopper/.github/workflows/dart.yml" />
+      <jump line="105" column="22" filename="$USER_HOME$/Documents/rooftopper/lib/main.dart" />
+    </project>
   </component>
   <component name="VimMarksSettings">
     <globalmarks />
     <localmarks>
+      <file name="/Dummy.txt" timestamp="1707509496312">
+        <mark key="&quot;" line="0" column="0" />
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="0" column="21" />
+        <mark key="." line="0" column="20" />
+        <mark key="^" line="0" column="21" />
+      </file>
+      <file name="$USER_HOME$/Documents/rooftopper/README.md" timestamp="1707508599023">
+        <mark key="[" line="6" column="0" />
+        <mark key="]" line="6" column="0" />
+        <mark key="^" line="0" column="4" />
+        <mark key="." line="6" column="0" />
+      </file>
+      <file name="$USER_HOME$/Documents/rooftopper/.github/workflows/dart.yml" timestamp="1707508974691">
+        <mark key="[" line="27" column="13" />
+        <mark key="]" line="27" column="17" />
+        <mark key="." line="27" column="16" />
+        <mark key="^" line="27" column="17" />
+      </file>
       <file name="$USER_HOME$/betere_nulpunten.java" timestamp="1705771566310">
         <mark key="&quot;" line="28" column="0" />
       </file>
@@ -28,14 +58,32 @@
   </component>
   <component name="VimRegisterSettings">
     <registers>
-      <register name="&quot;" type="LINE_WISE">
-        <text encoding="base64">cHVibGljIHZvaWQgbnVscHVudGVuKGludCBhLCBpbnQgYiwgaW50IGMpIHsKCiBkb3VibGUgZGlzY3JpbWluYW50OwoKIC8vIEV2ZXJ5IHZhcmlhYmxlIGlzIGEgcG9zaXRpdmUgaW50ZWdlci4KIGlmICghIGMgPT0gMCAmJiAhIGIgPT0gMCAmJiBhID09IDApIHsKICBkaXNjcmltaW5hbnQgPSAoYiAqIGIpIC0gKDQgKiBhICogYyk7CiAgaWYgKGQgPCAwKSB7CiAgIFN5c3RlbS5vdXQucHJpbnRsbigiRGUgdmVlbHRlcm0gXCIiICsgYSArICIqeF4yICsgIiArIGIgKyAiKnggKyAiICsgYyArICJcIiBoZWVmdCAwIG51bHB1bnRlbi4iKTsKICB9IGVsc2UgaWYgKGQgPT0gMCkgewogICAgZG91YmxlIG51bHB1bnQgPSAoLWIgKyBkKSAvICgyICogYSk7CiAgICBTeXN0ZW0ub3V0LnByaW50bG4oIkRlIHZlZWx0ZXJtIFwiIiArIGEgKyAiKnheMiArICIgKyBiICsgIip4ICsgIiArIGMgKyAiXCIgaGVlZnQgMSBudWxwdW50LiIpOwogICAgU3lzdGVtLm91dC5wcmludGxuKCJubC4gIiArIG5wdCk7CiAgfQoKICBlbHNlIHsKICAgIGRvdWJsZSBucHQxID0gKC1iICsgTWF0aC5zcXJ0KGQpKSAvICgyICogYSk7CiAgICBkb3VibGUgbnB0MiA9ICgtYiAtIE1hdGguc3FydChkKSkgLyAoMiAqIGEpOwogICAgU3lzdGVtLm91dC5wcmludGxuKCJEZSB2ZWVsdGVybSBcIiIgKyBhICsgIip4XjIgKyAiICsgYiArICIqeCArICIgKyBjICsgIlwiIGhlZWZ0IDIgbnVscHVudGVuLiIpOwogICAgU3lzdGVtLm91dC5wcmludGxuKCJubC4gIiArIG5wdDEgKyAiIGVuICIgKyBucHQyKTsKICB9CiAgLy8gaWYgYSBhbmQgYyBhcmUgcG9zaXRpdmUgaW50ZWdlcnMsIGJ1dCBub3QgYgp9IGVsc2UgaWYgKGIgPT0gMCAmJiBjICE9IDApIHsKIFN5c3RlbS5vdXQucHJpbnRsbigiRGUgdmVlbHRlcm0iICsgYyArICJoZWVmdCBnZWVuIG51bHB1bnRlbi4iKTsKIC8vIGlmIGV2ZXJ5IHZhcmlhYmxlIGlzIHplcm8uCn0gZWxzZSB7CiAgIFN5c3RlbS5vdXQucHJpbnRsbigiRGUgdmVlbHRlcm0iICsgYyArICJoZWVmdCBvbmVpbmRpZyB2ZWVsIG51bHB1bnRlbi4iKTsKICB9Cg==</text>
+      <register name="1" type="LINE_WISE">
+        <text encoding="base64">cmRhcnRlbW92ZWQgc29tZSBsaW5lcwo=</text>
+      </register>
+      <register name="&quot;" type="CHARACTER_WISE">
+        <text encoding="base64">Zmx1dHRlcg==</text>
+      </register>
+      <register name="2" type="LINE_WISE">
+        <text encoding="base64">Cgo=</text>
+      </register>
+      <register name="3" type="LINE_WISE">
+        <text encoding="base64">QSBmZXcgcmVzb3VyY2VzIHRvIGdldCB5b3Ugc3RhcnRlZCBpZiB0aGlzIGlzIHlvdXIgZmlyc3QgRmx1dHRlciBwcm9qZWN0Ogo=</text>
+      </register>
+      <register name="4" type="LINE_WISE">
+        <text encoding="base64">VGhpcyBwcm9qZWN0IGlzIGEgc3RhcnRpbmcgcG9pbnQgZm9yIGEgRmx1dHRlciBhcHBsaWNhdGlvbi4K</text>
       </register>
       <register name=":" type="CHARACTER_WISE">
-        <text encoding="base64">cQ==</text>
+        <text encoding="base64">dw==</text>
       </register>
       <register name="+" type="LINE_WISE">
         <text encoding="base64">cHVibGljIHZvaWQgbnVscHVudGVuKGludCBhLCBpbnQgYiwgaW50IGMpIHsKCiBkb3VibGUgZGlzY3JpbWluYW50OwoKIC8vIEV2ZXJ5IHZhcmlhYmxlIGlzIGEgcG9zaXRpdmUgaW50ZWdlci4KIGlmICghIGMgPT0gMCAmJiAhIGIgPT0gMCAmJiBhID09IDApIHsKICBkaXNjcmltaW5hbnQgPSAoYiAqIGIpIC0gKDQgKiBhICogYyk7CiAgaWYgKGQgPCAwKSB7CiAgIFN5c3RlbS5vdXQucHJpbnRsbigiRGUgdmVlbHRlcm0gXCIiICsgYSArICIqeF4yICsgIiArIGIgKyAiKnggKyAiICsgYyArICJcIiBoZWVmdCAwIG51bHB1bnRlbi4iKTsKICB9IGVsc2UgaWYgKGQgPT0gMCkgewogICAgZG91YmxlIG51bHB1bnQgPSAoLWIgKyBkKSAvICgyICogYSk7CiAgICBTeXN0ZW0ub3V0LnByaW50bG4oIkRlIHZlZWx0ZXJtIFwiIiArIGEgKyAiKnheMiArICIgKyBiICsgIip4ICsgIiArIGMgKyAiXCIgaGVlZnQgMSBudWxwdW50LiIpOwogICAgU3lzdGVtLm91dC5wcmludGxuKCJubC4gIiArIG5wdCk7CiAgfQoKICBlbHNlIHsKICAgIGRvdWJsZSBucHQxID0gKC1iICsgTWF0aC5zcXJ0KGQpKSAvICgyICogYSk7CiAgICBkb3VibGUgbnB0MiA9ICgtYiAtIE1hdGguc3FydChkKSkgLyAoMiAqIGEpOwogICAgU3lzdGVtLm91dC5wcmludGxuKCJEZSB2ZWVsdGVybSBcIiIgKyBhICsgIip4XjIgKyAiICsgYiArICIqeCArICIgKyBjICsgIlwiIGhlZWZ0IDIgbnVscHVudGVuLiIpOwogICAgU3lzdGVtLm91dC5wcmludGxuKCJubC4gIiArIG5wdDEgKyAiIGVuICIgKyBucHQyKTsKICB9CiAgLy8gaWYgYSBhbmQgYyBhcmUgcG9zaXRpdmUgaW50ZWdlcnMsIGJ1dCBub3QgYgp9IGVsc2UgaWYgKGIgPT0gMCAmJiBjICE9IDApIHsKIFN5c3RlbS5vdXQucHJpbnRsbigiRGUgdmVlbHRlcm0iICsgYyArICJoZWVmdCBnZWVuIG51bHB1bnRlbi4iKTsKIC8vIGlmIGV2ZXJ5IHZhcmlhYmxlIGlzIHplcm8uCn0gZWxzZSB7CiAgIFN5c3RlbS5vdXQucHJpbnRsbigiRGUgdmVlbHRlcm0iICsgYyArICJoZWVmdCBvbmVpbmRpZyB2ZWVsIG51bHB1bnRlbi4iKTsKICB9Cg==</text>
+      </register>
+      <register name="-" type="CHARACTER_WISE">
+        <text encoding="base64">Zmx1dHRlcg==</text>
+      </register>
+      <register name="." type="CHARACTER_WISE">
+        <text encoding="base64">ZGFydA==</text>
       </register>
     </registers>
   </component>

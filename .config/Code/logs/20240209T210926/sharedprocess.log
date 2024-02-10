@@ -1,0 +1,81 @@
+2024-02-09 21:09:33.749 [info] Started initializing default profile extensions in extensions installation folder. file:///home/kaya-sem/.vscode/extensions
+2024-02-09 21:09:33.846 [error] [uncaught exception in sharedProcess]: Event not found: onDidChange: CodeExpectedError: Event not found: onDidChange
+    at Object.listen (/opt/visual-studio-code/resources/app/out/vs/code/node/sharedProcess/sharedProcessMain.js:45:4959)
+    at E.t (/opt/visual-studio-code/resources/app/out/vs/code/node/sharedProcess/sharedProcessMain.js:44:251)
+    at E.q (/opt/visual-studio-code/resources/app/out/vs/code/node/sharedProcess/sharedProcessMain.js:43:4371)
+    at w.value (/opt/visual-studio-code/resources/app/out/vs/code/node/sharedProcess/sharedProcessMain.js:43:3602)
+    at d.y (/opt/visual-studio-code/resources/app/out/vs/code/node/sharedProcess/sharedProcessMain.js:38:1902)
+    at d.z (/opt/visual-studio-code/resources/app/out/vs/code/node/sharedProcess/sharedProcessMain.js:38:1972)
+    at d.fire (/opt/visual-studio-code/resources/app/out/vs/code/node/sharedProcess/sharedProcessMain.js:38:2188)
+    at MessagePortMain.de (/opt/visual-studio-code/resources/app/out/vs/code/node/sharedProcess/sharedProcessMain.js:36:30422)
+    at MessagePortMain.emit (node:events:514:28)
+    at Object.emit (node:electron/js2c/utility_init:2:2285)
+2024-02-09 21:09:33.957 [warning] Failed to create default profile extensions manifest in extensions installation folder. file:///home/kaya-sem/.vscode/extensions Unable to create file 'vscode-userdata:/home/kaya-sem/.vscode/extensions/extensions.json' that already exists when overwrite flag is not set
+2024-02-09 21:09:33.957 [info] Completed initializing default profile extensions in extensions installation folder. file:///home/kaya-sem/.vscode/extensions
+2024-02-09 21:10:05.806 [info] Getting Manifest... teabyii.ayu
+2024-02-09 21:10:05.828 [info] Installing extension: teabyii.ayu
+2024-02-09 21:10:06.477 [warning] Extension signature verification failed with error 'UnknownError': teabyii.ayu
+2024-02-09 21:10:06.638 [info] Extracted extension to file:///home/kaya-sem/.vscode/extensions/teabyii.ayu-1.0.5: teabyii.ayu
+2024-02-09 21:10:06.646 [info] Renamed to /home/kaya-sem/.vscode/extensions/teabyii.ayu-1.0.5
+2024-02-09 21:10:06.649 [info] Extracting extension completed. teabyii.ayu
+2024-02-09 21:10:06.661 [info] Extension installed successfully: teabyii.ayu
+2024-02-09 21:10:06.674 [error] [uncaught exception in sharedProcess]: Error: ENOENT: no such file or directory, stat '/home/kaya-sem/.vscode/extensions/extensions.json.vsctmp': EntryNotFound (FileSystemError): Error: ENOENT: no such file or directory, stat '/home/kaya-sem/.vscode/extensions/extensions.json.vsctmp'
+    at r.create (/opt/visual-studio-code/resources/app/out/vs/code/node/sharedProcess/sharedProcessMain.js:51:30119)
+    at a (/opt/visual-studio-code/resources/app/out/vs/code/node/sharedProcess/sharedProcessMain.js:51:30234)
+    at i.fb (/opt/visual-studio-code/resources/app/out/vs/code/node/sharedProcess/sharedProcessMain.js:56:36631)
+    at i.stat (/opt/visual-studio-code/resources/app/out/vs/code/node/sharedProcess/sharedProcessMain.js:56:29077)
+    at async v.stat (/opt/visual-studio-code/resources/app/out/vs/code/node/sharedProcess/sharedProcessMain.js:56:16223)
+    at async Y.tb (/opt/visual-studio-code/resources/app/out/vs/code/node/sharedProcess/sharedProcessMain.js:102:108626)
+2024-02-09 21:10:14.311 [info] Getting Manifest... dart-code.flutter
+2024-02-09 21:10:14.327 [info] Installing extension: dart-code.flutter
+2024-02-09 21:10:14.964 [info] Getting Manifest... dart-code.dart-code
+2024-02-09 21:10:15.102 [info] Installing extension: dart-code.dart-code dart-code.flutter
+2024-02-09 21:10:16.680 [warning] Extension signature verification failed with error 'UnknownError': dart-code.dart-code
+2024-02-09 21:10:28.836 [info] Extracted extension to file:///home/kaya-sem/.vscode/extensions/dart-code.dart-code-3.82.0: dart-code.dart-code
+2024-02-09 21:10:28.847 [info] Renamed to /home/kaya-sem/.vscode/extensions/dart-code.dart-code-3.82.0
+2024-02-09 21:10:28.851 [info] Extracting extension completed. dart-code.dart-code
+2024-02-09 21:10:28.942 [error] [uncaught exception in sharedProcess]: Error: ENOENT: no such file or directory, stat '/home/kaya-sem/.vscode/extensions/extensions.json.vsctmp': EntryNotFound (FileSystemError): Error: ENOENT: no such file or directory, stat '/home/kaya-sem/.vscode/extensions/extensions.json.vsctmp'
+    at r.create (/opt/visual-studio-code/resources/app/out/vs/code/node/sharedProcess/sharedProcessMain.js:51:30119)
+    at a (/opt/visual-studio-code/resources/app/out/vs/code/node/sharedProcess/sharedProcessMain.js:51:30234)
+    at i.fb (/opt/visual-studio-code/resources/app/out/vs/code/node/sharedProcess/sharedProcessMain.js:56:36631)
+    at i.stat (/opt/visual-studio-code/resources/app/out/vs/code/node/sharedProcess/sharedProcessMain.js:56:29077)
+    at async v.stat (/opt/visual-studio-code/resources/app/out/vs/code/node/sharedProcess/sharedProcessMain.js:56:16223)
+    at async Y.tb (/opt/visual-studio-code/resources/app/out/vs/code/node/sharedProcess/sharedProcessMain.js:102:108626)
+2024-02-09 21:10:29.254 [warning] Extension signature verification failed with error 'UnknownError': dart-code.flutter
+2024-02-09 21:10:29.272 [info] Extracted extension to file:///home/kaya-sem/.vscode/extensions/dart-code.flutter-3.82.0: dart-code.flutter
+2024-02-09 21:10:29.275 [info] Renamed to /home/kaya-sem/.vscode/extensions/dart-code.flutter-3.82.0
+2024-02-09 21:10:29.277 [info] Extracting extension completed. dart-code.flutter
+2024-02-09 21:10:29.288 [info] Extension installed successfully: dart-code.dart-code
+2024-02-09 21:10:29.288 [info] Extension installed successfully: dart-code.flutter
+2024-02-09 21:10:29.358 [error] [uncaught exception in sharedProcess]: Error: ENOENT: no such file or directory, stat '/home/kaya-sem/.vscode/extensions/extensions.json.vsctmp': EntryNotFound (FileSystemError): Error: ENOENT: no such file or directory, stat '/home/kaya-sem/.vscode/extensions/extensions.json.vsctmp'
+    at r.create (/opt/visual-studio-code/resources/app/out/vs/code/node/sharedProcess/sharedProcessMain.js:51:30119)
+    at a (/opt/visual-studio-code/resources/app/out/vs/code/node/sharedProcess/sharedProcessMain.js:51:30234)
+    at i.fb (/opt/visual-studio-code/resources/app/out/vs/code/node/sharedProcess/sharedProcessMain.js:56:36631)
+    at i.stat (/opt/visual-studio-code/resources/app/out/vs/code/node/sharedProcess/sharedProcessMain.js:56:29077)
+    at async v.stat (/opt/visual-studio-code/resources/app/out/vs/code/node/sharedProcess/sharedProcessMain.js:56:16223)
+    at async Y.tb (/opt/visual-studio-code/resources/app/out/vs/code/node/sharedProcess/sharedProcessMain.js:102:108626)
+2024-02-09 21:11:56.011 [error] [uncaught exception in sharedProcess]: Event not found: onDidChange: CodeExpectedError: Event not found: onDidChange
+    at Object.listen (/opt/visual-studio-code/resources/app/out/vs/code/node/sharedProcess/sharedProcessMain.js:45:4959)
+    at E.t (/opt/visual-studio-code/resources/app/out/vs/code/node/sharedProcess/sharedProcessMain.js:44:251)
+    at E.q (/opt/visual-studio-code/resources/app/out/vs/code/node/sharedProcess/sharedProcessMain.js:43:4371)
+    at w.value (/opt/visual-studio-code/resources/app/out/vs/code/node/sharedProcess/sharedProcessMain.js:43:3602)
+    at d.y (/opt/visual-studio-code/resources/app/out/vs/code/node/sharedProcess/sharedProcessMain.js:38:1902)
+    at d.z (/opt/visual-studio-code/resources/app/out/vs/code/node/sharedProcess/sharedProcessMain.js:38:1972)
+    at d.fire (/opt/visual-studio-code/resources/app/out/vs/code/node/sharedProcess/sharedProcessMain.js:38:2188)
+    at MessagePortMain.de (/opt/visual-studio-code/resources/app/out/vs/code/node/sharedProcess/sharedProcessMain.js:36:30422)
+    at MessagePortMain.emit (node:events:514:28)
+    at Object.emit (node:electron/js2c/utility_init:2:2285)
+2024-02-09 21:14:47.989 [info] Getting Manifest... vscodevim.vim
+2024-02-09 21:14:48.007 [info] Installing extension: vscodevim.vim
+2024-02-09 21:14:48.656 [warning] Extension signature verification failed with error 'UnknownError': vscodevim.vim
+2024-02-09 21:14:48.702 [info] Extracted extension to file:///home/kaya-sem/.vscode/extensions/vscodevim.vim-1.27.2: vscodevim.vim
+2024-02-09 21:14:48.707 [info] Renamed to /home/kaya-sem/.vscode/extensions/vscodevim.vim-1.27.2
+2024-02-09 21:14:48.710 [info] Extracting extension completed. vscodevim.vim
+2024-02-09 21:14:48.720 [info] Extension installed successfully: vscodevim.vim
+2024-02-09 21:14:48.797 [error] [uncaught exception in sharedProcess]: Error: ENOENT: no such file or directory, stat '/home/kaya-sem/.vscode/extensions/extensions.json.vsctmp': EntryNotFound (FileSystemError): Error: ENOENT: no such file or directory, stat '/home/kaya-sem/.vscode/extensions/extensions.json.vsctmp'
+    at r.create (/opt/visual-studio-code/resources/app/out/vs/code/node/sharedProcess/sharedProcessMain.js:51:30119)
+    at a (/opt/visual-studio-code/resources/app/out/vs/code/node/sharedProcess/sharedProcessMain.js:51:30234)
+    at i.fb (/opt/visual-studio-code/resources/app/out/vs/code/node/sharedProcess/sharedProcessMain.js:56:36631)
+    at i.stat (/opt/visual-studio-code/resources/app/out/vs/code/node/sharedProcess/sharedProcessMain.js:56:29077)
+    at async v.stat (/opt/visual-studio-code/resources/app/out/vs/code/node/sharedProcess/sharedProcessMain.js:56:16223)
+    at async Y.tb (/opt/visual-studio-code/resources/app/out/vs/code/node/sharedProcess/sharedProcessMain.js:102:108626)

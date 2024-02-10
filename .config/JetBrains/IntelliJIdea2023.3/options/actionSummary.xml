@@ -1,28 +1,61 @@
 <application>
   <component name="ActionsLocalSummary">
+    <e n="ActivateCommitToolWindow">
+      <i c="1" l="1707508327149" />
+    </e>
+    <e n="ChangesView.ShowCommitOptions">
+      <i c="1" l="1707508386619" />
+    </e>
     <e n="EditorBackSpace">
-      <i c="34" l="1705771439999" />
+      <i c="52" l="1707508800424" />
+    </e>
+    <e n="EditorDelete">
+      <i c="4" l="1707508614350" />
     </e>
     <e n="EditorEnter">
       <i c="7" l="1705771446290" />
     </e>
+    <e n="EditorEscape">
+      <i c="12" l="1707509005121" />
+    </e>
     <e n="ExpandRegion">
       <i c="4" l="1705771248000" />
     </e>
+    <e n="Git.Commit.And.Push.Executor">
+      <i c="6" l="1707508998618" />
+    </e>
+    <e n="Git.Init">
+      <i c="1" l="1707508332300" />
+    </e>
+    <e n="Run">
+      <i c="1" l="1707508305304" />
+    </e>
     <e n="SaveAll">
-      <i c="1" l="1705771564831" />
+      <i c="5" l="1707508975556" />
+    </e>
+    <e n="ShowIntentionActions">
+      <i c="1" l="1707509108818" />
     </e>
     <e n="ShowSettings">
       <i c="3" l="1705771470064" />
     </e>
+    <e n="Vcs.ToggleAmendCommitMode">
+      <i c="1" l="1707508993929" />
+    </e>
     <e n="WelcomeScreen.CreateNewProject">
-      <i c="1" l="1706984377151" />
+      <i c="4" l="1707508009838" />
     </e>
     <e n="WelcomeScreen.OpenProject">
       <i c="1" l="1705771188414" />
     </e>
+    <e n="com.intellij.ide.wizard.NewProjectWizardLanguageStep$AdditionalStepsAction">
+      <i c="1" l="1707477616813" />
+    </e>
+    <e n="com.intellij.notification.NotificationAction$Simple">
+      <i c="3" l="1707509000505" />
+    </e>
     <e n="com.intellij.openapi.actionSystem.AnActionWrapper">
-      <i c="2" l="1705771559237" />
+      <i c="29" l="1707509004140" />
     </e>
     <e n="com.intellij.openapi.ui.DialogWrapper$5">
       <i c="1" l="1705771570609" />
@@ -31,16 +64,28 @@
       <i c="2" l="1705771211083" />
     </e>
     <e n="com.intellij.openapi.wm.impl.SquareAnActionButton">
-      <i c="2" l="1705771205792" />
+      <i c="15" l="1707509006398" />
     </e>
     <e n="com.intellij.openapi.wm.impl.customFrameDecorations.header.toolbar.MainMenuButton$ShowMenuAction">
       <i c="3" l="1705771467805" />
+    </e>
+    <e n="com.intellij.toolWindow.ShowMoreToolWindowsAction">
+      <i c="3" l="1707508366592" />
+    </e>
+    <e n="com.intellij.toolWindow.ToolWindowHeader$HideAction">
+      <i c="2" l="1707508714487" />
+    </e>
+    <e n="com.intellij.toolWindow.ToolWindowHeader$ShowOptionsAction">
+      <i c="1" l="1707508341530" />
     </e>
     <e n="com.intellij.ui.dsl.builder.components.SegmentedButtonAction">
       <i c="1" l="1706984384809" />
     </e>
     <e n="com.maddyhome.idea.vim.ui.ex.ExShortcutKeyAction">
-      <i c="3" l="1705771566273" />
+      <i c="7" l="1707508975528" />
+    </e>
+    <e n="io.flutter.FlutterInitializer$2">
+      <i c="1" l="1707508296269" />
     </e>
   </component>
 </application>
